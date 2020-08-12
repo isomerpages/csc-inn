@@ -1,14 +1,14 @@
 ---
 layout: homepage
-title: Isomer Site
-description: Brief site description here
+title: Online resources by INN x CSC
+description: Here you may find online guides for using our virtual learning studios, green room, and a playbook of ideas for face-to-face and virtual facilitation. 
 image: /images/isomer-logo.svg
 permalink: /
 notification: Here's a notification bar you can use!
 sections:
     - hero:
-        title: Hero title
-        subtitle: Hero subtitle
+        title: Online resources by INN x CSC
+        subtitle: Here you may find online guides for using our virtual learning studios, green room, and a playbook of ideas for face-to-face and virtual facilitation. 
         background: /images/hero-banner.png
         button: Contact Us
         url: /contact-us/
