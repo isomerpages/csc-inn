@@ -11,7 +11,7 @@ links:
     url: /contact-us/
   - title: About
     url: /about/
-  - title: Programmes
-    collection: programmes
+  - title: Ideas Playbook
+    collection: ideas-playbook
   - title: Media Room
     resource_room: true
