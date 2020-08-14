@@ -1,4 +1,4 @@
 ---
 title: Pre-Program Ideas
-permalink: /ideas-playbook/pre-program-ideas/
+permalink: /ideas-playbook/facilitation-ideas/pre-program-ideas/
 ---
