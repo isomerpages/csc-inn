@@ -20,7 +20,8 @@ colors:
 
 
 collections:
-  playbook: 
+  playbook:
+    output: true
   programmes:
     output: true
 resources_name: media-room
