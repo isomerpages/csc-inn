@@ -7,7 +7,7 @@ locations:
   - title: Branch Office
     address:
         - 9 Jurong Town Hall
-        - Level 3
+        - #03-19
         - Singapore 609431
     operating_hours:
       - days: Mon - Fri
