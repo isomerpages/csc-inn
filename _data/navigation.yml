@@ -12,6 +12,6 @@ links:
   - title: About
     url: /about/
   - title: Ideas Playbook
-    resource_room: true
+    url: /ideas-playbook/
   - title: Media Room
     resource_room: true
