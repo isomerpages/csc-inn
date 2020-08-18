@@ -7,7 +7,7 @@ title: Playbook of Ideas
 <ul>
   {% for playbook in csc-inn.playbook %}
     <li>
-      <h2>{{playbook.name}}</h2>
+      <h2><a href="{{playbook.url}}">{{playbook.name}}</a></h2>
       <p>{{playbook.content | markdownify }}</p>
     </li>
   {% endfor %}
