@@ -1,0 +1,14 @@
+---
+layout: default 
+title: Playbook of Ideas 
+---
+<h1>Playbook of Ideas</h1>
+
+<ul>
+  {% for playbook in csc-inn.playbook %}
+    <li>
+      <h2>{{playbook.name}}</h2>
+      <p>{{playbook.content | markdownify }}</p>
+    </li>
+  {% endfor %}
+</ul>
