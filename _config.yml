@@ -19,12 +19,12 @@ colors:
       color: '#00838f'
 
 
-collections: playbook
-  collection-one: pre-program
+collections: 
+  collection-one: 
     output: true
-  collection-two: main-program
+  collection-two: 
     output: true
-  collection-three: post-program
+  collection-three: 
     output: true
 resources_name: media-room
 
