@@ -38,10 +38,6 @@ defaults:
       path: ""
     values:
       layout: "page"
-  - scope:
-      path: ""
-    values: 
-      layout: "default"
 # Custom CSS file path
 custom_css_path: "/misc/custom.css"
 custom_print_css_path: "/assets/css/print.css"
