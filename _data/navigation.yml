@@ -8,10 +8,17 @@ logo: /images/isomer-logo.svg
 
 links:
   - title: Contact Us
-    link: /contact-us/
+    url: /contact-us/
   - title: About
-    link: /about/
-  - title: Ideas Playbook
-    link: /
+    url: /about/
+  - title: Playbook
+    url: /_playbook/playbook-main-page.md/
+    sublinks:
+      - title: Pre-Program
+        url: /_playbook/_pre-program/
+      - title: Main Program
+        url: /_playbook/_main-program/
+      - title: Post-Program
+        url: /_playbook/_post-program/
   - title: Media Room
     resource_room: true
