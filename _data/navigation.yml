@@ -13,5 +13,6 @@ links:
     url: /about/
   - title: Playbook
     collection: playbook
+    url: /playbook-main-page/
   - title: Media Room
     resource_room: true
