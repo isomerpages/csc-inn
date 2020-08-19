@@ -20,15 +20,17 @@ colors:
 
 
 collections: 
+  playbook:
+    output: true
   collection-one: 
     output: true
   collection-two: 
     output: true
   collection-three: 
     output: true
+    
 resources_name: media-room
-  playbook:
-    output: true
+
 
 ##################################################################################################################
 # Everything below this line is Isomer-specific configuration. There should not be a need to edit these settings #
