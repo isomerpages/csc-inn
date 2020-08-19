@@ -6,22 +6,21 @@
 
 logo: /images/isomer-logo.svg
 
-links:
-  - title: Contact Us
-    url: /contact-us/
+- title: Contact Us
+  url: /contact-us/
     
-  - title: About
-    url: /about/
+- title: About
+  url: /about/
     
-  - title: Playbook
-    url: /playbook/playbook-main-page/
-    sub-links:
-    - title: Pre-Programme
-      url: /playbook/pre-programme/
-    - title: Main Programme
-      url: /playbook/main-programme/
-    - title: Post-Programme
-      url: /playbook/post-programme/
+- title: Playbook
+  url: /playbook/playbook-main-page/
+  sub-links:
+  - title: Pre-Programme
+    url: /playbook/pre-programme/
+  - title: Main Programme
+    url: /playbook/main-programme/
+  - title: Post-Programme
+    url: /playbook/post-programme/
       
-  - title: Media Room
-    resource_room: true
+- title: Media Room
+  resource_room: true
