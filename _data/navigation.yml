@@ -13,12 +13,5 @@ links:
     url: /about/
   - title: Playbook
     url: /playbook-main-page/
-    sublinks:
-      - title: Pre-Program
-        url: /_pre-program/
-      - title: Main Program
-        url: /_main-program/
-      - title: Post-Program
-        url: /_post-program/
   - title: Media Room
     resource_room: true
