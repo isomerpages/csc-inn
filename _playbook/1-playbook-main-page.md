@@ -1,5 +1,4 @@
 ---
-layout: leftnav-page-content
 title: Playbook
 permalink: /playbook/playbook-main-page/
 breadcrumb: Playbook
