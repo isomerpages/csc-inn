@@ -4,7 +4,7 @@ title: Contact Us
 permalink: /contact-us/
 agency_name: INN x CSC
 locations:
-  - title: Branch Office
+  - title: INN x CSC
     address:
         - 9 Jurong Town Hall
         - #03-19
@@ -17,9 +17,6 @@ locations:
 contacts:
   - title: General Enquiries & Feedback
     content:
-    - email: enquiries@abc.gov.sg
+    - email: innxcsc@cscollege.gov.sg
     - other: Any text here <i>including HTML</i>
-  - title: Careers
-    content:
-    - email: careers@abc.gov.sg
 ---
