@@ -1,6 +1,6 @@
 ---
 title: Playbook
-permalink: /playbook/playbook-main-page/
+permalink: /playbook-main-page/
 breadcrumb: Playbook
 collection_name: playbook
 
