@@ -27,9 +27,8 @@ collections:
   collection-three: 
     output: true
 resources_name: media-room
-  collection-four:
+  playbook:
     output: true
-resources_name: _playbook
 
 ##################################################################################################################
 # Everything below this line is Isomer-specific configuration. There should not be a need to edit these settings #
