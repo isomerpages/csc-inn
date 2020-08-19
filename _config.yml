@@ -19,10 +19,12 @@ colors:
       color: '#00838f'
 
 
-collections:
-  playbook:
+collections: 
+  collection-one: 
     output: true
-  programmes:
+  collection-two: 
+    output: true
+  collection-three: 
     output: true
 resources_name: media-room
 
