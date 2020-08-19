@@ -12,7 +12,7 @@ links:
   - title: About
     url: /about/
   - title: Playbook
-    url: /_playbook/playbook-main-page.md/
+    url: /_playbook/playbook-main-page/
     sublinks:
       - title: Pre-Program
         url: /_playbook/_pre-program/
