@@ -10,8 +10,8 @@ links:
   - title: Contact Us
     url: /contact-us/
   - title: About
-    link: /about/
+    url: /about/
   - title: Ideas Playbook
-    link: 
+    url: 
   - title: Media Room
     resource_room: true
