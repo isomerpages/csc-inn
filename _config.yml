@@ -22,12 +22,7 @@ colors:
 collections: 
   playbook:
     output: true
-  collection-one: 
-    output: true
-  collection-two: 
-    output: true
-  collection-three: 
-    output: true
+  
     
 resources_name: media-room
 
