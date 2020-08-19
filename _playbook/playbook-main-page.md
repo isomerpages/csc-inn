@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: Playbook
-permalink: /playbook-main-page/
+permalink: /playbook/playbook-main-page/
 breadcrumb: Playbook
 collection_name: playbook
 
