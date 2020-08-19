@@ -14,14 +14,14 @@ links:
     url: /about/
     
   - title: Playbook
-    url: /_playbook/playbook-main-page/
+    url: /playbook/playbook-main-page/
     sub-links:
     - title: Pre-Programme
-      url: /_playbook/pre-programme/
+      url: /playbook/pre-programme/
     - title: Main Programme
-      url: /_playbook/main-programme/
+      url: /playbook/main-programme/
     - title: Post-Programme
-      url: /_playbook/post-programme/
+      url: /playbook/post-programme/
       
   - title: Media Room
     resource_room: true
