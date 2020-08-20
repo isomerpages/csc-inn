@@ -1,5 +1,4 @@
 ---
-
 layout: leftnav-page-content
 title: Story of Bricklayers
 permalink: /playbook/pre-program/story-of-bricklayers/
@@ -7,7 +6,6 @@ breadcrumb: Story of Bricklayers
 collection_name: playbook
 second_nav_title: "Pre-Program"
 image: /images/Construction.jpg/
-
 ---
 
 Story of Bricklayers
