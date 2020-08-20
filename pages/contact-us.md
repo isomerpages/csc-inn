@@ -14,7 +14,7 @@ locations:
       - days: Mon - Fri
         time: 8.30am - 6.00pm
         description: Closed on weekends and Public Holidays
-    maps_link: https://www.onemap.sg/main/v2/?lat=1.30980057093966&lng=103.791873092511
+    maps_link: https://www.onemap.sg/main/v2/?lat=1.328773051&lng=103.74186949999999
 contacts:
   - title: General Enquiries & Feedback
     content:
