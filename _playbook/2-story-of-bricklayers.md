@@ -6,7 +6,8 @@ third_nav_title: "Pre-Program"
 
 ![Construction](/images/Construction.jpg)
 ### Story of Bricklayers
-*#facetoface #virtual* <br>
+*#facetoface #virtual* 
+<br>
 Ease your participants into your expectations for their conduct in your program with a story about bricklayers. You can tell it as it is shown below or spruce it up with more details from your imagination.
 
 ---
