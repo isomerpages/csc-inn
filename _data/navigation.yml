@@ -13,15 +13,14 @@ logo: /images/isomer-logo.svg
   url: /about/
     
 - title: Playbook
-  collection: playbook
   url: /playbook/pre-program/story-of-bricklayers/
   sub-links:
-  - title: Pre-Program
-    url: /playbook/pre-program/story-of-bricklayers/
-  - title: Main Program
-    url: /playbook/main-program/
-  - title: Post-Program
-    url: /playbook/post-program/
+    - title: Pre-Program
+      url: /playbook/pre-program/story-of-bricklayers/
+    - title: Main Program
+      url: /playbook/main-program/
+    - title: Post-Program
+      url: /playbook/post-program/
       
 - title: Media Room
   resource_room: true
