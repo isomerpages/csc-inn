@@ -7,18 +7,14 @@ locations:
   - title: Where are we located?
     address:
         - Jurong Town Hall Building  
-        - 9 Jurong Town Hall Rd, #03-19
+        - 9 Jurong Town Hall Rd
+        - #03-19
         - Singapore 609431
     operating_hours:
       - days: Mon - Fri
         time: 8.30am - 6.00pm
-        description: Closed on Public Holidays
-      - days: Sat
-        time: 8.30am - 12.00pm
-  - title: Branch Office
-    address:
-        - 109 North Bridge Road
-        - Singapore 179097
+        description: Closed on weekends and Public Holidays
+
     maps_link: https://goo.gl/maps/C8VfxphGxT2GsfcaA
 contacts:
   - title: General Enquiries & Feedback
