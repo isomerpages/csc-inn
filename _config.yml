@@ -30,7 +30,7 @@ resources_name: media-room
 breadcrumbs:
   root:
     hide: false # show breadcrumbs on root/home page. 
-    image: false # Show image or title text. 
+    image: true # Show image or title text. 
 
 ##################################################################################################################
 # Everything below this line is Isomer-specific configuration. There should not be a need to edit these settings #
