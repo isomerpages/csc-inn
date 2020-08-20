@@ -2,13 +2,13 @@
 layout: contact_us
 title: Contact Us
 permalink: /contact-us/
-agency_name: Agency Name
+agency_name: INN x CSC
 locations:
-  - title: Main Office
+  - title: Where are we located?
     address:
-        - 31 Sesame Street
-        - Big Bird Building
-        - Singapore 123456
+        - Jurong Town Hall Building  
+        - 9 Jurong Town Hall Rd, #03-19
+        - Singapore 609431
     operating_hours:
       - days: Mon - Fri
         time: 8.30am - 6.00pm
