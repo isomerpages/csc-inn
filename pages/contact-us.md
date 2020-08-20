@@ -5,7 +5,7 @@ permalink: /contact-us/
 agency_name: INN x CSC
 locations:
   - title: INN x CSC
-    address:9 Jurong Town Hall<br> #03-19<br>Singapore 609431
+    address: 9 Jurong Town Hall<br> #03-19<br>Singapore 609431
        
     operating_hours:
       - days: Mon - Fri
