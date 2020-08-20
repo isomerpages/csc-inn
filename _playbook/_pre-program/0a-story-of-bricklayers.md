@@ -1,6 +1,10 @@
 ---
+layout: leftnav-page-content
 title: Story of Bricklayers
-permalink: /_playbook/_pre-program/01-bricklayers/
+permalink: /playbook/pre-program/story-of-bricklayers/
+breadcrumb: Story of Bricklayers
+collection_name: playbook
+second_nav_title: "Pre-Program"
 image: /images/Construction.jpg/
 ---
 Ease your participants into your expectations for their conduct in your program with a story about bricklayers. You can tell it as it is shown below or spruce it up with more details from your imagination.
