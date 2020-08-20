@@ -10,9 +10,10 @@ third_nav_title: "Pre-Program"
 
 
 Ease your participants into your expectations for their conduct in your program with a story about bricklayers. You can tell it as it is shown below or spruce it up with more details from your imagination.  
+<br/>
 
 ---
-
+<br/>
 A reporter visited some construction sites where he met bricklayers who told different accounts about their jobs in his interview. At each construction site, the reporter would ask, 'Would you care to share about what you're building here?'
 
 "I am laying bricks to build a wall,” came the brusque reply from the first bricklayer.
