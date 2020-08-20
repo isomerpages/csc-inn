@@ -8,6 +8,7 @@ third_nav_title: "Pre-Program"
 ### Story of Bricklayers
 *#facetoface #virtual* 
 
+<br>
 Ease your participants into your expectations for their conduct in your program with a story about bricklayers. You can tell it as it is shown below or spruce it up with more details from your imagination.
 
 <br>
@@ -25,7 +26,6 @@ The third bricklayer, noted the reporter, seemed different from the other two wh
 He responded to the reporter with a twinkle in his eyes, 'I am building a beautiful skyscraper.'
 
 The third bricklayer left the reporter with insights about his work in the construction industry, and so the reporter left with much satisfaction to work on his story.
-
 <br>
 
 ---
