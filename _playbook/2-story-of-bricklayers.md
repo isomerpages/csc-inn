@@ -9,7 +9,7 @@ third_nav_title: "Pre-Program"
 *#facetoface #virtual* 
 
 
-Ease your participants into your expectations for their conduct in your program with a story about bricklayers. You can tell it as it is shown below or spruce it up with more details from your imagination.
+Ease your participants into your expectations for their conduct in your program with a story about bricklayers. You can tell it as it is shown below or spruce it up with more details from your imagination.  
 
 ---
 
