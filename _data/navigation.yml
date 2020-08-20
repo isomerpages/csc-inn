@@ -15,12 +15,12 @@ logo: /images/isomer-logo.svg
 - title: Playbook
   url: /playbook/playbook-main-page/
   sub-links:
-  - title: Pre-Programme
-    url: /playbook/pre-programme/
-  - title: Main Programme
-    url: /playbook/main-programme/
-  - title: Post-Programme
-    url: /playbook/post-programme/
+  - title: Pre-Program
+    url: /playbook/pre-program/
+  - title: Main Program
+    url: /playbook/main-program/
+  - title: Post-Program
+    url: /playbook/post-program/
       
 - title: Media Room
   resource_room: true
