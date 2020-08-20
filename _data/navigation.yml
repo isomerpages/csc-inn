@@ -15,7 +15,7 @@ links:
     
   - title: Playbook
     url: /playbook/playbook-main-page/
-    sub-links:
+    sublinks:
       - title: Pre-Program
         url: /playbook/pre-program/story-of-bricklayers/
       - title: Main Program
