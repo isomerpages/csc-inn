@@ -2,7 +2,6 @@
 title: Story of Bricklayers
 permalink: /playbook/pre-program/story-of-bricklayers/
 third_nav_title: "Pre-Program"
-image: /images/Construction.jpg/
 ---
 
 ### Story of Bricklayers
