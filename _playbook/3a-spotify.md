@@ -1,7 +1,8 @@
 ---
-title: Main Programme
+title: Community Spotify
 permalink: /playbook/main-program/energizer/spotify/
-third_nav_title: "Energizer"
+third_nav_title: "Main Program"
+fourth_nav_title: "Energizer"
 ---
 
-### Community Spotify
+### Community Spotify2
