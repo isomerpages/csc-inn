@@ -2,7 +2,7 @@
 layout: homepage
 title: Online resources by INN x CSC
 description: Here you may find online guides for using our virtual learning studios, green room, and a playbook of ideas for face-to-face and virtual facilitation. 
-image: /images/isomer-logo.svg
+image: /images/INNXCSC_logo.png
 permalink: /
 notification: Here's a notification bar you can use!
 sections:
