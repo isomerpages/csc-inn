@@ -9,7 +9,7 @@ sections:
     - hero:
         title: INN x CSC Gateway
         subtitle: Here you may find online guides for using our virtual learning studios, green room, and a playbook of ideas for face-to-face and virtual facilitation. 
-        background: /images/hero-banner.png
+        background: /images/INNXCSC-03.jpg
         button: Contact Us
         url: /contact-us/
         key_highlights:
