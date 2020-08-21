@@ -3,7 +3,7 @@ title: Toothpaste
 permalink: /playbook/pre-program/toothpaste/
 third_nav_title: "Pre-Program"
 ---
-![Toothpaste](/images/organic-toothpaste-tube-and-bamboo-toothbrush-on-fresh-green-4465829.jpg)
+![Toothpaste](/images/organic-toothpaste-tube-and-bamboo-toothbrush-on-fresh-green-4465829.jpg =1680	x	1120)
 ### Toothpaste 
 *#facetoface #virtual*
 
