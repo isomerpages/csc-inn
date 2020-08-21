@@ -4,6 +4,7 @@ permalink: /playbook/pre-program/avatars/
 third_nav_title: "Pre-Program"
 ---
 ![Avatars](/images/avatars.jpg)
+
 ### Avatars
 *#virtual*
 
@@ -12,4 +13,5 @@ Avatars can help participants in receiving feedback from a third party’s persp
 
 <br/>
 #### How to create an avatar on Facebook 
+
 <iframe width="1053" height="594" src="https://www.youtube.com/embed/5PsKsj2fgMg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
