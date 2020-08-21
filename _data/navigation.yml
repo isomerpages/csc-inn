@@ -7,6 +7,10 @@
 logo: /images/INNXCSC_logo.png
 
 links:
+
+  - title: Programmes
+    url: /programmes/
+    
   - title: Contact Us
     url: /contact-us/
     
