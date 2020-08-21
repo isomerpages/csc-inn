@@ -7,11 +7,11 @@ permalink: /
 notification: Here's a notification bar you can use!
 sections:
     - hero:
-        title: INN x CSC Gateway
-        subtitle: Here you may find online guides for using our virtual learning studios, green room, and a playbook of ideas for face-to-face and virtual facilitation. 
+        title: 
+        subtitle: 
         background: /images/INNXCSC-03.jpg
-        button: Contact Us
-        url: /contact-us/
+        button:
+        url:
         key_highlights:
             - title: Highlight A
               description: Important highlight A is important
