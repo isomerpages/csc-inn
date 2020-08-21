@@ -7,15 +7,12 @@
 logo: /images/INNXCSC_logo.png
 
 links:
-
-  - title: Programmes
-    url: /programmes/
-    
-  - title: Contact Us
-    url: /contact-us/
-    
+  
   - title: About
     url: /about/
+    
+  - title: Programmes
+    url: /programmes/
     
   - title: Playbook
     collection: playbook
@@ -27,5 +24,5 @@ links:
       - title: Post-Program
         url: /playbook/post-program/
       
-  - title: Media Room
-    resource_room: true
+  - title: Contact Us
+    url: /contact-us/
