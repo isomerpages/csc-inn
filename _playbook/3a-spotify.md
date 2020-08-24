@@ -1,7 +1,7 @@
 ---
 title: Community Spotify
 permalink: /playbook/main-program/spotify/
-third_nav_title: "Main Program: Energizer"
+third_nav_title: "Main Program: Energizers"
 ---
 
 ![Music](/images/music.jpg)
