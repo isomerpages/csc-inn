@@ -4,7 +4,7 @@ permalink: /playbook/main-program/energizer/spotify/
 third_nav_title: "Main Program: Energizer"
 ---
 
-!{[Music](/images/music.jpg)
+![Music](/images/music.jpg)
 ### Community Spotify
 *#facetoface #virtual*
 
