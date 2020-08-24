@@ -13,15 +13,13 @@ If you are considering to build a community of learners, [Board Game Arena](http
 ![Board Game Arena on Zoom](/images/Board Game Arena.jpg) *Players in a game of Saboteur at Board Game Arena.*
 
 Here are some key factors to note when selecting a digital board game: 
-<br/>
 
 * **Be familiar with the game's rules.**
 <br/>
 You need to be able to deliver clear instructions to your participants so that they know how to play the game. You may have to do a visual demonstration of the gameplay while explaining the rules. This will save your players the pain of reading long lines rules on the website so that they can have more time to enjoy the game. 
-<br/>
 
 * **Be mindful of the recommended duration for your selected game.**
-
+<br/>
 Since energizer activities are typically short, games that last no more than 30 minutes (excluding facilitator's demo time) might be ideal. If you're dedicating a bigger segment of your program for community building, you may consider games that require up to 1 hour of playtime. 
 
 Once your participants are ready, you can assign them to **breakout rooms** on Zoom. You can move between breakout rooms to check in on participants and assist them with their queries about the game. 
