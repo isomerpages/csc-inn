@@ -12,7 +12,7 @@ INN x CSC embodies and aims to foster the following 5 traits in public officers:
 
 <table style="padding:10px">
   <tr>
-    <td><img src="/images/INNXCSC_logo.png" alt="1" width = 200px height = 204px>\
+    <td><img src="/images/inclusive.png" alt="1" width = 200px height = 204px>\
       *Inclusive*
       No matter who you are or what you do, you are welcome here. This is a safe space where you get to experiment without being judged and where you can candidly share your         knowledge and insights to create a cohesive learning community.</td>
   <td><img src="./Scshot/cab_booked.png" align="right" alt="2" width = 200px height = 204px></td>
