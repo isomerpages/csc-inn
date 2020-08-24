@@ -1,7 +1,7 @@
 ---
 title: Mentimeter Games
 permalink: /playbook/main-program/mentimeter-games/
-third_nav_title: "Main Program: Energizer"
+third_nav_title: "Main Program: Energizers"
 ---
 ### Mentimeter Games 
 *#facetoface #virtual*
