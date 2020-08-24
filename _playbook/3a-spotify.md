@@ -1,6 +1,6 @@
 ---
 title: Community Spotify
-permalink: /playbook/main-program/energizer/spotify/
+permalink: /playbook/main-program/spotify/
 third_nav_title: "Main Program: Energizer"
 ---
 
