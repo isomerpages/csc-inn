@@ -11,4 +11,7 @@ INN x CSC embodies and aims to foster the following 5 traits in public officers:
 | First Header  | Second Header | Third Header  |
 | ------------- | ------------- | ------------- |
 | Content Cell  | Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  | Content Cell  |
+
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
