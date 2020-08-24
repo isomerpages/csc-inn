@@ -6,7 +6,7 @@ third_nav_title: "Main Program: Energizer"
 ### Mentimeter Games 
 *#facetoface #virtual*
 
-Mentimeter offers a range of features that allow you to create simple activities to gamify your workshop. Possible uses of Mentimeter include quizzing participants to check their understanding of a previous lesson, eliciting prior knowledge and assumptions before teaching a lesson, or facilitating icebreaker sessions and many more.
+[Mentimeter](https://www.mentimeter.com/) offers a range of features that allow you to create simple activities to gamify your workshop. Possible uses of Mentimeter include quizzing participants to check their understanding of a previous lesson, eliciting prior knowledge and assumptions before teaching a lesson, or facilitating icebreaker sessions and many more.
 
 You can make Mentimeter games relatable to participants by posting personal trivia quizzes. For instance, you can create a quiz for players to guess the identities of their peers' baby photos. 
 
