@@ -1,7 +1,9 @@
 ---
 title: Board Game Arena 
 permalink: /playbook/main-program/board-game-arena/
-third_nav_title: "Energizers"
+third_nav_title: 
+  - nested_parent: "Energizers"
+      - nested_nested_page: "3e-board-game-arena.md"
 ---
 ![Board Game](/images/boardgame.jpg)
 ### Board Game Arena
