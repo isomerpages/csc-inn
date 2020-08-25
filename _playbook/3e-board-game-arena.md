@@ -1,6 +1,6 @@
 ---
 title: Board Game Arena 
-permalink: /playbook/main-program/energizers/board-game-arena/
+permalink: /playbook/main-program/board-game-arena/
 third_nav_title: "Energizers"
 ---
 ![Board Game](/images/boardgame.jpg)
