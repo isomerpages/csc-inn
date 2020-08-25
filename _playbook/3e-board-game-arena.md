@@ -2,6 +2,7 @@
 title: Board Game Arena 
 permalink: /playbook/main-program/board-game-arena/
 third_nav_title: "Main Program: Energizers"
+    - "Energizers"
 ---
 ![Board Game](/images/boardgame.jpg)
 ### Board Game Arena
