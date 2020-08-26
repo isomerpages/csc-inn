@@ -1,7 +1,7 @@
 ---
 title: Piing.Events
-permalink: /playbook/main-program/piing-events/
-third_nav_title: "Main Program: Energizers"
+permalink: /playbook/energizers/piing-events/
+third_nav_title: "Energizers"
 ---
 ![Piing Events](/images/piing events.JPG)
 ### Piing.Events
