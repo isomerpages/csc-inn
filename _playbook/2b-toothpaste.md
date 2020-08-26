@@ -1,7 +1,7 @@
 ---
 title: Toothpaste
-permalink: /playbook/pre-program/toothpaste/
-third_nav_title: "Pre-Program"
+permalink: /playbook/setting-expectations/toothpaste/
+third_nav_title: "Setting Expectations"
 ---
 ![Toothpaste](/images/organic-toothpaste-tube-and-bamboo-toothbrush-on-fresh-green-4465829.jpg)
 ### Toothpaste 
