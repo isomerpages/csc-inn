@@ -1,5 +1,5 @@
 ---
-title: Playbook
+title: About Playbook
 permalink: /playbook/playbook-main-page/
 
 ---
