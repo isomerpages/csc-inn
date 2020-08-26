@@ -16,13 +16,6 @@ links:
     
   - title: Playbook
     collection: playbook
-    sublinks:
-      - title: Pre-Program
-        url: /playbook/pre-program/story-of-bricklayers/
-      - title: Main Program
-        url: /playbook/main-program/
-      - title: Post-Program
-        url: /playbook/post-program/
-      
+          
   - title: Contact Us
     url: /contact-us/
