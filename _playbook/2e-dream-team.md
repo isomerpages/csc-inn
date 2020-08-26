@@ -1,7 +1,7 @@
 ---
 title: Dream Team
-permalink: /playbook/pre-program/dream-team/
-third_nav_title: "Pre-Program"
+permalink: /playbook/personalization/dream-team/
+third_nav_title: "Personalization"
 ---
 ![Dream Team](/images/team.jpg)
 ### Dream Team 
