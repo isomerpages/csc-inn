@@ -7,20 +7,20 @@ permalink: /
 notification: Here's a notification bar you can use!
 sections:
     - hero:
-        title: 
+        title: Welcome to INN x CSC
         subtitle: 
         background: /images/INNXCSC-03.jpg
         button:
         url:
         key_highlights:
-            - title: Gallery
-              description: Important highlight A is important
+            - title: INN x CSC Featured Programmes
+              description: View INN x CSC programmes
               url: https://google.com
-            - title: Highlight B
-              description: Important highlight B is equally important
+            - title: INN x CSC Playbook
+              description: Here you may find online guides for using our virtual learning studios, green room, and a playbook of ideas for face-to-face and virtual facilitation.
               url: https://gmail.com
-            - title: Page A
-              description: Page A is important too
+            - title: Gallery
+              description: View photos from past programmes and events
               url: /privacy/
     - infobar:
         title: Infobar title
