@@ -1,7 +1,7 @@
 ---
 title: Wheel of Names
-permalink: /playbook/main-program/wheelofnames/
-third_nav_title: "Main Program: Energizers"
+permalink: /playbook/energizers/wheelofnames/
+third_nav_title: "Energizers"
 ---
 ![Wheel of Names](/images/Wheel of Names.jpg)
 ### Wheel of Names 
