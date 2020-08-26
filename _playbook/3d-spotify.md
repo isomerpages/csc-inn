@@ -1,7 +1,7 @@
 ---
 title: Community Spotify
-permalink: /playbook/main-program/spotify/
-third_nav_title: "Main Program: Energizers"
+permalink: /playbook/personalization/spotify/
+third_nav_title: "Personalization"
 ---
 
 ![Music](/images/music.jpg)
