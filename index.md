@@ -13,7 +13,7 @@ sections:
         button:
         url:
         key_highlights:
-            - title: Highlight A
+            - title: Gallery
               description: Important highlight A is important
               url: https://google.com
             - title: Highlight B
