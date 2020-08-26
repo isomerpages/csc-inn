@@ -1,7 +1,7 @@
 ---
 title: Assign Buddies
-permalink: /playbook/pre-program/assign-buddies/
-third_nav_title: "Pre-Program"
+permalink: /playbook/personalization/assign-buddies/
+third_nav_title: "Personalization"
 ---
 ![Buddies](/images/buddies.jpg)
 ### Assign Buddies
