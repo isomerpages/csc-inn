@@ -1,7 +1,7 @@
 ---
 title: Story of Bricklayers
-permalink: /playbook/pre-program/story-of-bricklayers/
-third_nav_title: "Pre-Program"
+permalink: /playbook/setting-expectations/story-of-bricklayers/
+third_nav_title: "Setting Expectations"
 ---
 
 ![Construction](/images/Construction.jpg)
