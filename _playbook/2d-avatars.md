@@ -1,7 +1,7 @@
 ---
 title: Avatars
-permalink: /playbook/pre-program/avatars/
-third_nav_title: "Pre-Program"
+permalink: /playbook/personalization/avatars/
+third_nav_title: "Personalization"
 ---
 ![Avatars](/images/avatars.jpg)
 
