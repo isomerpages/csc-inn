@@ -6,7 +6,7 @@ third_nav_title: "Setting Expectations"
 
 ![Construction](/images/Construction.jpg)
 ### Story of Bricklayers
-*#facetoface #virtual* 
+*#facetoface #virtual #preprogram* 
 
 
 Ease your participants into your expectations for their conduct in your program with a story about bricklayers. You can tell it as it is shown below or spruce it up with more details from your imagination.  
