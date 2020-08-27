@@ -5,7 +5,7 @@ third_nav_title: "Energizers"
 ---
 ![Board Game](/images/boardgame.jpg)
 ### Board Game Arena
-*#virtual*
+*#virtual #preprogram #mainprogram*
 
 
 If you are considering to build a community of learners, [Board Game Arena](https://en.boardgamearena.com/) would be a good place to go as it offers hundreds of board games that have been digitalized for online play. Players can explore their team dynamics through various modes of gameplay.  With old favourites like Saboteur (image below) and 7 Wonders, players are bound to have a roaring good time!
