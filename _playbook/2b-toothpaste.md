@@ -5,7 +5,7 @@ third_nav_title: "Setting Expectations"
 ---
 ![Toothpaste](/images/organic-toothpaste-tube-and-bamboo-toothbrush-on-fresh-green-4465829.jpg)
 ### Toothpaste 
-*#facetoface #virtual*
+*#facetoface #virtual #preprogram*
 
 Which part of a tube of toothpaste do you normally squeeze to get the most out of it? This activity is about getting participants to communicate and share different perspectives. 
 
