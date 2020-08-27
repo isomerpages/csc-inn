@@ -338,9 +338,9 @@ $desktop: 960px + (2 * $gap) !default;
 
 //Indentation for lists and nested lists.
 
-//li {
-  //  padding-left: 10px;
-//}
-//ol {
-  //  padding-left: 50px;
-//}
+li {
+	padding-left: 10px;
+	  }
+ol {
+	padding-left: 50px;
+	  }
