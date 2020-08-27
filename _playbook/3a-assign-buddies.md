@@ -5,7 +5,7 @@ third_nav_title: "Personalization"
 ---
 ![Buddies](/images/buddies.jpg)
 ### Assign Buddies
-*#facetoface #virtual*
+*#facetoface #virtual #preprogram*
 
 <br>
 Having a list of participants ready will be really helpful in organising them for collaborative work.
