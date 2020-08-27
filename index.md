@@ -13,7 +13,7 @@ sections:
         button:
         url:
         key_highlights:
-            - title: INN x CSC Featured Programmes
+            - title: INN x CSC Programmes
               description: View INN x CSC programmes
               url: https://google.com
             - title: INN x CSC Playbook
