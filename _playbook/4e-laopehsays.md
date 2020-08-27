@@ -1,7 +1,7 @@
 ---
 title: Laopeh Says 
 permalink: /playbook/energizers/laopehsays/
-third_nav_title: Energizers
+third_nav_title: "Energizers"
 ---
 ### Laopeh Says 
 *#virtual #preprogram #mainprogram*
