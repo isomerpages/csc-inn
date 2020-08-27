@@ -6,7 +6,7 @@ third_nav_title: "Personalization"
 ![Avatars](/images/avatars.jpg)
 
 ### Avatars
-*#virtual #pre-program*
+*#virtual #preprogram*
 
 <br>
 Avatars can help participants in receiving feedback from a third party’s perspective. As avatars mask their true identities, participants may feel safe about giving feedback to each other. You may also consider printing their avatars on their certificates at the end of a program as a form of personalised gift.
