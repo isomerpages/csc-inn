@@ -5,9 +5,9 @@ third_nav_title: "Energizers"
 ---
 ![Piing Events](/images/piing events.JPG)
 ### Piing.Events
-*#facetoface #virtual*
+*#facetoface #virtual #preprogram #mainprogram*
 
-[Piing.Events](https://piing.events/) is a web-based multiplayer gaming service that currently offers four party games. Each game can last about 10 minutes or more, subject to your program's design. The capacity of the games ranges from 30 to 200 players. 
+[Piing.Events](https://piing.events/) is a web-based multiplayer gaming service that currently offers four party games for energizers or teambonding. Each game can last about 10 minutes or more, subject to your program's design. The capacity of the games ranges from 30 to 200 players. 
 
 ![Piing Events players](/images/Piing Events 2.jpg)
 *Players in a Piing.Events game while on Zoom.*
