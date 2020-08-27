@@ -4,7 +4,7 @@ permalink: /playbook/energizers/mentimeter-games/
 third_nav_title: "Energizers"
 ---
 ### Mentimeter Games 
-*#facetoface #virtual*
+*#facetoface #virtual #preprogram #mainprogram*
 
 [Mentimeter](https://www.mentimeter.com/) offers a range of features that allow you to create simple activities to gamify your workshop. Possible uses of Mentimeter include quizzing participants to check their understanding of a previous lesson, eliciting prior knowledge and assumptions before teaching a lesson, or facilitating icebreaker sessions and many more.
 
