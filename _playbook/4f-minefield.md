@@ -4,6 +4,7 @@ permalink: /playbook/energizers/minefield/
 third_nav_title: "Energizers"
 ---
 ### Minefield
+*#virtual #preprogram #mainprogram*
 
 ![Minefield](/images/Minefield 2.jpg)
 *caption*
