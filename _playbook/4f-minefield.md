@@ -28,6 +28,6 @@ As a facilitator, you get to decide the types of challenges to post to your part
 * Finish a can of coke in 30 seconds.
 
 #### How to Play
-1) Your team must complete a challenge (see below) to move a step across the minefield. ​​​Use Zoom's annotate function to indicate the tile that your team has decided to move into. Your facilitator will reveal if you have stepped onto a safe tile or a mine. 
-2) If your team steps on a mine, go back to the starting point. 
+1) Your team must complete a challenge (see below) to move a step across the minefield. Use Zoom's annotate function to indicate the tile that your team has decided to move into. Your facilitator will reveal if you have stepped onto a safe tile or a mine.  
+2) If your team steps on a mine, go back to the starting point.  
 3) You are not allowed to draw or annotate locations of mines on the minefield. You must depend solely on your memory to remember them.
