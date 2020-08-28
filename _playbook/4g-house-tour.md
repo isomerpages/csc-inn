@@ -11,4 +11,4 @@ It is a well-known fact that a home reflects its owners' personality. Hence, goi
 
 This activity can be easily done in the comfort of your own home and all you need is a camera-enabled smartphone or laptop to show your home to your participants on Zoom. Invite your participants to share personal stories about some outstanding features in their homes for deeper emotional engagement. 
 
-House tours work well with participants who are open to share about their personal living spaces with their peers. For participants who are more reserved, you may try the alternative activity 'Whose Fridge is This?'. 
+House tours work well with participants who are open to share about their personal living spaces with their peers. For participants who are more reserved, you may try the alternative activity ['Whose Fridge is This?'](/playbook/energizers/whose-fridge/). 
