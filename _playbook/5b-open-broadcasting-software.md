@@ -6,7 +6,8 @@ third_nav_title: Presentations
 ### Open Broadcaster Software 
 *#facetoface #virtual #preprogram #mainprogram*
 ![Superimposed Videoing 1](/images/Superimposed videoing 1.jpg)
-*Filming in progress in INN's green room.*
+*Filming in progress in INN's green room.*  
+
 ![Superimposed Videoing 2](/images/Superimposed videoing 2.jpg)
 *Your video can be processed by the Open Broadcaster Software and simultaneously streamed on screen.*
 
