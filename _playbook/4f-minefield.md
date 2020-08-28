@@ -7,7 +7,7 @@ third_nav_title: "Energizers"
 *#virtual #preprogram #mainprogram*
 
 ![Minefield](/images/Minefield 2.jpg)
-*caption*
+*A game of Minefield conducted by Facilitators@NUS over a Zoom meeting*
 
 Minefield is typically played as a team building game in energizer segments of corporate events and school orientation programs. Here's how you can facilitate this game in a virtual setting. 
 
