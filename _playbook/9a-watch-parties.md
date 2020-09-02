@@ -7,6 +7,7 @@ third_nav_title: Teambuilding
 
 ### Watch Parties 
 *#virtual #preprogram #mainprogram*
+
 <br/>  
 
 Since safe distancing measures have kicked in to combat the Covid-19 pandemic, we have been highly discouraged from going out for movies with friends. Fortunately, the growing variety of titles on various online streaming services means that we can still enjoy sharing a show together while being physically apart. Thanks to ubiquitous video conference apps like Zoom, MS Teams and Discord, meeting friends online for virtual watch parties has become hassle free.  
