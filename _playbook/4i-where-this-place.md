@@ -23,19 +23,19 @@ Here are some possible themes to explore for this game:
 
 1. The facilitator will have to prepare a collaborative platform for the submission of images. This example is based on [Padlet](https://padlet.com/). Remember to enable **comments** so that your participants can key in their answers to each image being shown. You can also enable **content filtering** to guard against the sharing of NSFW content. 
 ![Where's This Place Step 0](/images/where's this place step 0.jpg)  
-#  
+/  
 
 2. It's game time! Participants will search for their desired locations in Google Maps and locate the little yellow man icon for **street view** on the bottom right corner. 
 ![Where's This Place Step 1](/images/where's this place step 1.JPG)  
-#  
+/  
 
 3. **Drag and drop** the street view icon on your desired location. 
 ![Where's This Place Step 2](/images/where's this place step 2.jpg)  
-#  
+/  
 
 4. Once your street view image appears, take a **screenshot** and save it as an image file. You can use tools such as the **Snipping Tool** available in all Windows PCs/laptops or use the **Prt Sc** button on your keyboard. 
 ![Where's This Place Step 3](/images/where's this place step 3.jpg)  
-#  
+/  
 
 5. Participants will have to go to your Padlet, **double click** anywhere or click on the **pencil icon** to post, then click **upload** and select their images to submit. 
 ![Where's This Place Step 4](/images/where's this place step 4.jpg)
