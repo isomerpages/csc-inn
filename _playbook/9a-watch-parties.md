@@ -21,6 +21,7 @@ Here's how you can play the host.
    2. Click **'share screen'** and select the window that has your video in it.  
    3. Make sure that the checkboxes for **'share computer sound'** and **'optimize screen sharing for video clip'** have been checked. Then, click **'share'**. 
 <br/>  
+
 #### The Good and the Bad  
 Zoom participants can share their reactions to a video by typing in the chat box. This means that comments can be exchanged almost instantaneously while the video is playing, though it can be a little distracting. This can be helpful for them to immediately jot down some key details that can be used for a discussion later. 
 
