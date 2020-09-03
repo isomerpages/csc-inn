@@ -20,6 +20,6 @@ Here are some key factors to note when selecting a digital board game:
 
 
   * **Be mindful of the recommended duration for your selected game.**\
-  Since energizer activities are typically short, games that last no more than 30 minutes (excluding facilitator's demo time) might be ideal. If you're dedicating a bigger segment of your program for community building, you may consider games that require up to 1 hour of playtime. 
+  Games that last no more than 30 minutes excluding facilitator's demo time are be ideal for energizer activities. If you're dedicating a bigger segment of your program for teambuilding like a company cohesion event, you may consider games that require up to 1 hour of playtime. 
 
 Once your participants are ready, you can assign them to **breakout rooms** on Zoom. You can move between breakout rooms to check in on participants and assist them with their queries about the game. 
