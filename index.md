@@ -25,10 +25,10 @@ sections:
               
     - infobar:
         title: Latest Updates
-        subtitle: Subtitle
-        description: About a sentence worth of description here
-        button: Button text
-        url: /faq/
+        subtitle: 
+        description: 
+        button: 
+        url: 
     - resources:
         title: Media
         subtitle: Learn more
