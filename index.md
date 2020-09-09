@@ -7,7 +7,7 @@ permalink: /
 notification: Here's a notification bar you can use!
 sections:
     - hero:
-        title: Welcome to INN x CSC
+        title: # Welcome
         subtitle: 
         background: /images/INNXCSC-03.jpg
         button:
@@ -22,14 +22,14 @@ sections:
             - title: Gallery
               description: View photos from past programmes and events
               url: /privacy/
-    - infobar:
-        title: Infobar title
-        subtitle: Subtitle
-        description: About a sentence worth of description here
-        button: Button text
-        url: /faq/
-    - resources:
-        title: Media
-        subtitle: Learn more
-        button: View More
+  //  - infobar:
+      //  title: Infobar title
+        //subtitle: Subtitle
+        //description: About a sentence worth of description here
+        //button: Button text
+        //url: /faq/
+    //-resources:
+      //  title: Media
+        //subtitle: Learn more
+        //button: View More
 ---
