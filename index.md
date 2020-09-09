@@ -7,7 +7,7 @@ permalink: /
 notification: Here's a notification bar you can use!
 sections:
     - hero:
-        title: Welcome
+        title: <!-- .slide: style="text-align: left;"> -->  Welcome
         subtitle: 
         background: /images/INNXCSC-03.jpg
         button:
