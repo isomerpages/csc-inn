@@ -7,7 +7,7 @@ permalink: /
 notification: Here's a notification bar you can use!
 sections:
     - hero:
-        title: <!-- .slide: style="text-align: left;"> -->  Welcome
+        title: Welcome
         subtitle: 
         background: /images/INNXCSC-03.jpg
         button:
@@ -23,7 +23,7 @@ sections:
               description: View photos from past programmes and events
               url: /privacy/
               
-    - infobar:
+   // - infobar:
         title: Infobar title
         subtitle: Subtitle
         description: About a sentence worth of description here
