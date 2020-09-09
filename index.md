@@ -8,7 +8,7 @@ notification: Here's a notification bar you can use!
 sections:
     - hero:
         title: 
-        subtitle: Welcome  
+        subtitle:   
         background: /images/INNXCSC-03.jpg
         button:
         url:
