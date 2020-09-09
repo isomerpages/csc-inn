@@ -22,8 +22,8 @@ sections:
             - title: Gallery
               description: View photos from past programmes and events
               url: /privacy/
-  //  - infobar:
-      //  title: Infobar title
+  //- infobar:
+      // title: Infobar title
         //subtitle: Subtitle
         //description: About a sentence worth of description here
         //button: Button text
