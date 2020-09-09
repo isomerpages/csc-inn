@@ -24,7 +24,7 @@ sections:
               url: /privacy/
               
     - infobar:
-        title: Infobar title
+        title: Latest Updates
         subtitle: Subtitle
         description: About a sentence worth of description here
         button: Button text
