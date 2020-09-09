@@ -23,12 +23,12 @@ sections:
               description: View photos from past programmes and events
               url: /privacy/
               
-    - infobar:
-        title: Infobar title
-        subtitle: Subtitle
-        description: About a sentence worth of description here
-        button: Button text
-        url: /faq/
+    //- infobar:
+       // title: Infobar title
+        //subtitle: Subtitle
+        //description: About a sentence worth of description here
+        //button: Button text
+        //url: /faq/
     - resources:
         title: Media
         subtitle: Learn more
