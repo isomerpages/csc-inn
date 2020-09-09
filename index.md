@@ -7,8 +7,8 @@ permalink: /
 notification: Here's a notification bar you can use!
 sections:
     - hero:
-        title: Welcome
-        subtitle: 
+        title: 
+        subtitle: Welcome  
         background: /images/INNXCSC-03.jpg
         button:
         url:
@@ -30,7 +30,7 @@ sections:
         button: 
         url: 
     - resources:
-        title: Media
-        subtitle: Learn more
+        title: 
+        subtitle: 
         button: View More
 ---
