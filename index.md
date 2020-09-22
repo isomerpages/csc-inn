@@ -24,9 +24,9 @@ sections:
               url: /privacy/
               
     - infobar:
-        title: Latest Updates
-        subtitle: 
-        description: 
+        title: Our Space
+        subtitle: Come INNside for a look!
+        description: <iframe width="900" height="506" src="https://www.youtube.com/embed/texVr_y4yMg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         button: 
         url: 
     - resources:
