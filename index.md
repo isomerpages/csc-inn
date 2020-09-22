@@ -24,8 +24,8 @@ sections:
               url: /privacy/
               
     - infobar:
-        title: Our Space
-        subtitle: Come INNside for a look!
+        title: Come INNside for a look!
+        subtitle: What's it like to run programs at INN?
         description: <iframe width="900" height="506" src="https://www.youtube.com/embed/texVr_y4yMg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         button: 
         url: 
