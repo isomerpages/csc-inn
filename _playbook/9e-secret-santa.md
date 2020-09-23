@@ -1,9 +1,9 @@
 ---
-title: Secret Partner
-permalink: /playbook/teambuilding/secret-partner/
+title: Secret Santa
+permalink: /playbook/teambuilding/secret-santa/
 third_nav_title: Teambuilding
 ---
-### Secret Partner 
+### Secret Santa 
 *#virtual #mainprogram*
 <br/>
 
