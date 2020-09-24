@@ -5,6 +5,7 @@ description: Here you may find online guides for using our virtual learning stud
 image: /images/INNXCSC_logo.png
 permalink: /
 //notification: Stay Calm! Wear Mask!
+![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 sections:
     - hero:
         title: 
