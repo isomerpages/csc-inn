@@ -30,7 +30,7 @@ sections:
         button: 
         url: 
     - resources:
-        title: 
+        title: What's New @ INN x CSC
         subtitle: 
         button: View More
 ---
