@@ -5,7 +5,6 @@ description: Here you may find online guides for using our virtual learning stud
 image: /images/INNXCSC_logo.png
 permalink: /
 //notification: Stay Calm! Wear Mask!
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 sections:
     - hero:
         title: 
@@ -16,6 +15,7 @@ sections:
         key_highlights:
             - title: INN x CSC Programmes
               description: View INN x CSC programmes
+              ![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
               url: https://www.csc.gov.sg/innxcsc
             - title: INN x CSC Playbook
               description: Here you may find online guides for using our virtual learning studios, green room, and a playbook of ideas for face-to-face and virtual facilitation.
