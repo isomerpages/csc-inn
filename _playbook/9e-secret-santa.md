@@ -35,3 +35,15 @@ You may also view this [video](https://youtu.be/MSChDJFSO1k) for a visual guide 
 
 #### [Draw Names](https://www.drawnames.com/secret-santa-generator?step=3)  
 
+![Draw Names](/images/Draw Names.JPG)  
+
+1. Key in the names of your participants for the draw.  
+2. You may configure the drawing of names in the following ways:  
+   * Every participant draws one name. 
+   * Every participant draws two names. 
+   * Participants do not draw names but view everyone's wishlist instead. 
+3. (Optional) Set exclusions to indicate the names that some participants may not draw.  
+4. Under 'Set up gift exchange details', enter a title for your activity, fill in your email address, and write your instructions to your participants under **'Invitation Message'**.  
+5. Click **Confirm**, then check your email inbox to continue with choosing one of the following ways to send the invitation to your participants.  
+   ![Draw Names send invitation](/images/Draw Names send invitation.JPG)
+6. Your participants will draw their alloted names when they accept your invitation. 
