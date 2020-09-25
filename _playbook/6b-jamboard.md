@@ -8,8 +8,9 @@ third_nav_title: Ideation
 ### Google Jamboard
 *#virtual #mainprogram*
 <br/>  
+<br/>
 
-Google Jamboard is a digital whiteboard that is a close cousin of Miro. You can access it for free with your Google account and share it with your teammates for collaborative work in ideation. As shown by the image above, collaborators create posts by adding sticky notes. The sticky notes can be shifted around the Jamboard page by any of the collaborators.  
+Google Jamboard is a digital whiteboard that is a close cousin of Miro. You can access it for free with your Google account and share it with your teammates for collaborative work in ideation. As shown by the image above, collaborators create posts by adding sticky notes. The sticky notes can be shifted around the Jamboard page by any of the collaborators. With Jamboard we can hold discussions anywhere without the hassle of transferring physical copies of sticky notes between different venues. This is a huge plus especially in recent times when virtual meetings have become the new norm.  
 
 #### Guide for Beginners  
 <iframe width="900" height="506" src="https://www.youtube.com/embed/f1nVeBHEAaI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
