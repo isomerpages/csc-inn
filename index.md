@@ -24,11 +24,11 @@ sections:
               url: /privacy/
               
     - infobar:
-        title: Come INNside for a look!
-        subtitle: What's it like to run programs at INN?
-        description: ![INN Promo Video](/images/INN Promo Video.JPG)
-        button: 
-        url: 
+        title: What's it like to run programs at INN?
+        subtitle: 
+        description: ![](/images/INN Promo Video.JPG)
+        button: Come INNside for a look!
+        url: https://youtu.be/texVr_y4yMg
     - resources:
         title: What's New @ INN x CSC
         subtitle: 
