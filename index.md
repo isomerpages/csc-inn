@@ -25,9 +25,9 @@ sections:
               
     - infobar:
         title: What's it like to run programs at INN?
-        subtitle: 
-        description: Come INNside for a look!
-        button: ![](/images/INN Promo Video.JPG)
+        subtitle: Learning Redefined
+        description: Our space is designed to keep course participants actively engaged throughout a programme. We have a makerspace for them to experiment with ideas and create prototypes, self-help vending machines to encourage conversations, fully customizable rooms with modular furniture and walls, and reflection pods for individual/pair work. 
+        button: Come INNside for a look!
         url: https://youtu.be/texVr_y4yMg
     - resources:
         title: What's New @ INN x CSC
