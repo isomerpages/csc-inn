@@ -24,9 +24,9 @@ sections:
               url: /privacy/
               
     - infobar:
-        title: What's it like to run programs at INN?
+        title: Reimagining Spaces to Take Learners to New Heights
         subtitle: Learning Redefined
-        description: Our space is designed to keep course participants actively engaged throughout a programme. We have a makerspace for them to experiment with ideas and create prototypes, self-help vending machines to encourage conversations, fully customizable rooms with modular furniture and walls, and reflection pods for individual/pair work. 
+        description: Our space is designed to keep course participants actively engaged throughout a programme. We have a makerspace for experimenting with ideas and creating prototypes, self-help snack vending machines to encourage conversations, fully customizable rooms with modular furniture and walls, and reflection pods for individual and pair work. 
         button: Come INNside for a look!
         url: https://youtu.be/texVr_y4yMg
     - resources:
