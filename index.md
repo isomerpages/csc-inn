@@ -27,7 +27,7 @@ sections:
         title: Come INNside for a look!
         subtitle: What's it like to run programs at INN?
         description: ![INN Promo Video](/images/INN Promo Video.JPG)
-        button: [Video Tour at INN](https://www.youtube.com/embed/texVr_y4yMg)
+        button: 
         url: 
     - resources:
         title: What's New @ INN x CSC
