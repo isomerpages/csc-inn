@@ -3,6 +3,7 @@ title: Call-a-Friend
 permalink: /playbook/reflections/call-a-friend/
 third_nav_title: Reflections
 ---
+![phone](/images/phone.jpg)  
 ### Call-a-Friend
 *#virtual #mainprogram #postprogram*
 <br/>
