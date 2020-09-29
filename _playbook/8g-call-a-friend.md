@@ -7,7 +7,7 @@ third_nav_title: Reflections
 ### Call-a-Friend
 *#virtual #mainprogram #postprogram*
 <br/>
-<br/>
+
 While moving participants into breakout rooms on Zoom seems ideal for small group reflections, it will inevitably cause some delays in a program as you will need some time to allocate breakout rooms to all participants. Here's an alternative for your consideration: Have your participants call each other to share their reflections in pairs while staying in the main meeting room. 
 
 Pairing participants for this Call-a-Friend activity can be done easily with Secret Santa generators such as [Secret Santa Organizer](https://www.secretsantaorganizer.com/) or [Draw Names](https://www.drawnames.com/secret-santa-generator?step=3). You can check out our article [Secret Santa](/playbook/teambuilding/secret-santa/
