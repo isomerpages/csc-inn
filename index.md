@@ -13,9 +13,9 @@ sections:
         button:
         url:
         key_highlights:
-            - title: INN x CSC Programmes
-              description: View INN x CSC programmes
-              url: https://www.csc.gov.sg/innxcsc
+            - title: What's New @ INN x CSC
+              description: Latest programme updates
+              url: /media-room/programme-updates/
             - title: INN x CSC Playbook
               description: Here you may find online guides for using our virtual learning studios, green room, and a playbook of ideas for face-to-face and virtual facilitation.
               url: /playbook/playbook-main-page/
@@ -33,6 +33,6 @@ sections:
         alt: Team manager Daisy introducing the makerspace at INN. 
     - resources:
         title: What's New @ INN x CSC
-        subtitle: 
+        subtitle: Latest programme updates
         button: View More
 ---
