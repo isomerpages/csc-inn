@@ -1,0 +1,10 @@
+---
+layout: post
+title:  Programmes Happening at INN x CSC
+permalink: /media-room/programmes/programmes/
+---
+![Learner engaged in activity with different tools](/images/Learning activity.jpg)
+Here is a list of programmes taking place at INN x CSC. Each link will redirect you to the programmes webpage of Civil Service College where you can view more details such as course synopsis, fees, instructors' background, and the dates of various programme runs available for booking.  
+
+1. [Growth Suite for Support Officers](https://www.cscollege.gov.sg/programmes/Pages/Display%20Programme.aspx?ePID=w8gq84v9rd5kpvnd3bmdabqi9w)
+2. [Designing and Implementing Effective Learning Experiences](https://www.cscollege.gov.sg/programmes/Pages/Display%20Programme.aspx?ePID=tw7788nmvva2m5pprtgoprnpaa)
