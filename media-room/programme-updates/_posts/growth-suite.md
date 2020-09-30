@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Growth Suite for Support Officers
-permalink: /media-room/press-releases/growth-suite
+permalink: /media-room/programme-updates/growth-suite
 ---
 We are in an era where technological breakthroughs happen on almost daily basis. Change is a constant, and we need to continually rethink and reinvent what we do. 
 
