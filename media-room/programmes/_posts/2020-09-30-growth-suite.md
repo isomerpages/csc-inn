@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Growth Suite for Support Officers
-permalink: /media-room/programme-updates/growth-suite
+permalink: /media-room/programmes/growth-suite
 image: /images/INNXCSC_logo.png
 description: To prepare our Support Officers for the future, CSC has developed the flagship Growth Suite built with learning experiences that will guide officers to develop the necessary mindset, knowledge and skills.
 ---
