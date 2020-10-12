@@ -11,7 +11,7 @@ third_nav_title: Ideation
 <br/>
 [Miro](https://miro.com/) is a free online collaborative whiteboard for users to work together remotely. While brainstorm sessions are conventionally done with post-it notes and whiteboards in a face-to-face setting, Miro allows users to generate ideas on a digital platform so their work can be saved in a cloud system. This also makes it easy for them to access their Miro notes wherever they go. Each Miro has unlimited digital whitespace space and it is also easy to convert your work into reports. 
 
-#### Digital Gallery Walk 
+#### Create a Digital Gallery Walk 
 Let's suppose you intend to have your participants present their ideation in a gallery walk, you can easily do this in Miro for a virtual workshop. Take a look at this template that our fellow nINNja Amanda created for a digital version of the National Game Scenario for the HR Leadership Program. 
 
 ![Layout of Miro for the Digital National Game Scenario](/images/miro national games scenario.PNG)
@@ -28,10 +28,10 @@ Once your PowerPoint file is uploaded, it may appear as a pinprick image on the 
 
 For more details about creating Miro boards that are customised to fulfil your digital training needs, don't hesitate to reach out to the friendly nINNja team when designing your programs. 
 
-#### Gamify Your Learning Experience
+#### Create a Low-Res Digital Prototype
 ![Experimental digital prototype of Perspectivity's boardgame Nexus designed to simulate multi-stakeholder collaboration in managing resources.](/images/miro nexus.JPG)  
 
-Apart from Miro's sticky note function for participants to share ideas in a brainstorm activity, there are addtional options available for you to create low-resolution prototypes to gamify learning experiences. The image featured above is a digital prototype of Nexus designed by Andrea Kow from Strategic Human Resource (SHR) for the HR Management Program (HRMP). 
+Apart from Miro's sticky note function for participants to share ideas in a brainstorm activity, there are addtional options available for you to create low-resolution prototypes such as digital games to inject some fun in learning experiences. The image featured above is a digital prototype of Nexus designed by Andrea Kow from Strategic Human Resource (SHR) for the HR Management Program (HRMP). 
 
 Nexus is originally an analogue boardgame designed by the Dutch company Perspectivity to simulate the complexities of multiple stakeholders collaborating to manage resources in fulfilling their respective agenda. As with all boardgames, players have to share and exchange game tokens while playing the game. Andrea's prototype is an attempt to digitalize the boardgame to meet the learning outcomes of HRMP whilst avoiding the sharing of physical game tokens among participants in compliance with safe distancing regulations.  
 
