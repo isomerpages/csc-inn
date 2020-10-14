@@ -9,10 +9,10 @@ third_nav_title: Ideation
 *#virtual #facetoface #mainprogram*
 
 <br/>
-[Miro](https://miro.com/) is a free online collaborative whiteboard for users to work together remotely. While brainstorm sessions are conventionally done with post-it notes and whiteboards in a face-to-face setting, Miro allows users to generate ideas on a digital platform so their work can be saved in a cloud system. This also makes it easy for them to access their Miro notes wherever they go. Each Miro has unlimited digital whitespace space and it is also easy to convert your work into reports. 
+[Miro](https://miro.com/) is a free online collaborative whiteboard for users to work together remotely. You can generate ideas on this digital platform and have them saved in a cloud system, so this makes it convenient for you to access your Miro notes wherever you go. Notes can be added easily by going to the **left panel** and clicking on the **sticky note** button. Each Miro has unlimited digital whitespace and can be easily converted into reports. 
 
 #### Create a Digital Gallery Walk 
-Let's suppose you intend to have your participants present their ideation in a gallery walk, you can easily do this in Miro for a virtual workshop. Take a look at this template that our fellow nINNja Amanda created for a digital version of the National Game Scenario for the HR Leadership Program. 
+You can present your ideation in a gallery walk using Miro in a virtual workshop. Take a look at this template that our fellow nINNja Amanda created for a digital version of the National Game Scenario for the HR Leadership Program. 
 
 ![Layout of Miro for the Digital National Game Scenario](/images/miro national games scenario.PNG)
 
