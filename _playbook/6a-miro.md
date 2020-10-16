@@ -3,13 +3,18 @@ title: Miro
 permalink: /playbook/ideation/miro/
 third_nav_title: Ideation
 ---
-![Miro](/images/miro.jpg)
-
 ### Miro 
 *#virtual #facetoface #mainprogram*
 
+![Templates available in Miro.](/images/miro templates.JPG)
+*Here are the different templates available in Miro for use in ideation.*
+
 <br/>
 [Miro](https://miro.com/) is a free online collaborative whiteboard for users to work together remotely. You can generate ideas on this digital platform and have them saved in a cloud system, so this makes it convenient for you to access your Miro notes wherever you go. Notes can be added easily by going to the **left panel** and clicking on the **sticky note** button. Each Miro has unlimited digital whitespace and can be easily converted into reports. 
+
+There is limitles space on a Miro board for different sets of collaborative work to be integrated. View this video from Miro to find out more. 
+<p><a href="https://miro.com/online-whiteboard/?wvideo=x835ey7j3o"><img src="https://embed-fastly.wistia.com/deliveries/06cce742d0d9c7363ff678c76243d575.jpg?image_play_button_size=2x&amp;image_crop_resized=960x540&amp;image_play_button=1&amp;image_play_button_color=050038e0" width="400" height="225" style="width: 400px; height: 225px;"></a></p><p><a href="https://miro.com/online-whiteboard/?wvideo=x835ey7j3o">Online Whiteboard | Collaborative Free Online Whiteboard | Miro</a></p>
+*Introductory video from Miro.*
 
 #### Create a Digital Gallery Walk 
 You can present your ideation in a gallery walk using Miro in a virtual workshop. With the addition of basic shapes and text, you can create a presentation gallery for participants to share their work and post comments. This guide will take you through a simple process of creating a gallery for participants to upload files from their local hard drive. 
@@ -38,7 +43,7 @@ Once you're done with inserting and modifying the objects (shapes and text boxes
 
 Step 5 onward will be relevant for your participants in creating content for their gallery walk. 
 
-##### Step 5: Upload a presentation object 
+##### Step 5: Upload participants' presentation object 
 ![Upload button on the left panel of your Miro board.](/images/miro gallery walk 4.JPG)
 
 Click the **upload** button on the left panel and select **my device** from the expanded menu to upload your local file for your presentation. 
