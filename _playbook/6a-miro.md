@@ -11,10 +11,9 @@ third_nav_title: Ideation
 
 <br/>
 [Miro](https://miro.com/) is a free online collaborative whiteboard for users to work together remotely. You can generate ideas on this digital platform and have them saved in a cloud system, so this makes it convenient for you to access your Miro notes wherever you go. Notes can be added easily by going to the **left panel** and clicking on the **sticky note** button. Each Miro has unlimited digital whitespace and can be easily converted into reports. 
-
-There is limitles space on a Miro board for different sets of collaborative work to be integrated. View this video from Miro to find out more. 
+  
+There is limitles space on a Miro board for different sets of collaborative work to be integrated. View this video from Miro to find out more.   
 <p><a href="https://miro.com/online-whiteboard/?wvideo=x835ey7j3o"><img src="https://embed-fastly.wistia.com/deliveries/06cce742d0d9c7363ff678c76243d575.jpg?image_play_button_size=2x&amp;image_crop_resized=960x540&amp;image_play_button=1&amp;image_play_button_color=050038e0" width="400" height="225" style="width: 400px; height: 225px;"></a></p><p><a href="https://miro.com/online-whiteboard/?wvideo=x835ey7j3o">Online Whiteboard | Collaborative Free Online Whiteboard | Miro</a></p>
-*Introductory video from Miro.*
 
 #### Create a Digital Gallery Walk 
 You can present your ideation in a gallery walk using Miro in a virtual workshop. With the addition of basic shapes and text, you can create a presentation gallery for participants to share their work and post comments. This guide will take you through a simple process of creating a gallery for participants to upload files from their local hard drive. 
@@ -62,18 +61,22 @@ Visiting the different groups' booths in the gallery is a simple matter of click
 
 For more details about creating Miro boards that are customised to fulfil your digital training needs, don't hesitate to reach out to the friendly nINNja team when designing your programs. 
 
-#### Create a Low-Res Digital Prototype
-![Experimental digital prototype of Perspectivity's boardgame Nexus designed to simulate multi-stakeholder collaboration in managing resources.](/images/miro nexus.JPG)  
+#### Other Project Ideas with Miro 
+Here are additional ideas from Miro collaborator [Martina Crnkovic](https://community.miro.com/community-stories-60/using-miro-board-for-trainings-and-people-development-262) and Andrew Kow from CSC's Strategic Human Resource for you to explore.  
 
-Apart from Miro's sticky note function for participants to share ideas in a brainstorm activity, there are addtional options available for you to create low-resolution prototypes such as digital games to inject some fun in learning experiences. The image featured above is a digital prototype of Nexus designed by Andrea Kow from Strategic Human Resource (SHR) for the HR Management Program (HRMP). 
+##### Summary of 3-day training course
+![Miro board with 3 frames for a 3-day training course.](/images/miro martina1 3day training content.png)
+One frame was created for each day's training program to consolidate key learning content. *Source: [Martina Crnkovic](https://community.miro.com/community-stories-60/using-miro-board-for-trainings-and-people-development-262)*
 
-Nexus is originally an analogue boardgame designed by the Dutch company Perspectivity to simulate the complexities of multiple stakeholders collaborating to manage resources in fulfilling their respective agenda. As with all boardgames, players have to share and exchange game tokens while playing the game. Andrea's prototype is an attempt to digitalize the boardgame to meet the learning outcomes of HRMP whilst avoiding the sharing of physical game tokens among participants in compliance with safe distancing regulations.  
+##### Training materials for different programs 
+![Different frames to display training materials for different programs.](/images/miro martina3 different workshops.png)
+This Miro board features different frames to display training materials for different programs. Participants can revisit the content that they have created in collaboration with each other and connect the different topics easily. *Source: [Martina Crnkovic](https://community.miro.com/community-stories-60/using-miro-board-for-trainings-and-people-development-262)*
 
-The visual elements on this digital prototype are constructed from **basic shapes** and **text** which are added from the left panel, and icons are uploaded via the **Google images plugin** which is available in the left panel's **triple dot menu button**.  
+##### Visual notes for process implementation
+![A series of visual elements like infographics and an embedded video to illustrate processes.](/images/miro martina2 process implementation.png)
+Visual elements such as infographics and an embedded video were integrated  together on this Miro board to illustrate how a process could be implemented, so there is no need for participants to view the content on a separate website. This is an effort to digitalize visual guides used in a face-to-face workshop. *Source: [Martina Crnkovic](https://community.miro.com/community-stories-60/using-miro-board-for-trainings-and-people-development-262)*
 
-Gamification features such as the Wheel of Names (see this related [article](/playbook/energizers/wheelofnames/)) and Google's dice roller pictured below were integrated by **adding hyperlinks** to the texts 'Disaster Wheel' and 'Spin the dice'. 
-
+##### Gamification features
 ![Clicking on the hyperlinked texts 'Disaster Wheel' and 'Spin the dice' will direct players to the external sites of Wheel of Names and Google's dice roller respectively.](/images/miro nexus gamification features.jpg)
-*Clicking on the hyperlinked texts 'Disaster Wheel' and 'Spin the dice' will direct players to the external sites of Wheel of Names and Google's dice roller respectively.*  
+Clicking on the hyperlinked texts 'Disaster Wheel' and 'Spin the dice' will direct players to the external sites of Wheel of Names and Google's dice roller respectively. *Source: Andrea Kow, Strategic Human Resource, Civil Service College.*
 
-With a spark of ingenuity in integrating the use of the different options available in Miro, you can also create a prototype as an outcome of your ideation process. 
