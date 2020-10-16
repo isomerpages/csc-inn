@@ -12,19 +12,48 @@ third_nav_title: Ideation
 [Miro](https://miro.com/) is a free online collaborative whiteboard for users to work together remotely. You can generate ideas on this digital platform and have them saved in a cloud system, so this makes it convenient for you to access your Miro notes wherever you go. Notes can be added easily by going to the **left panel** and clicking on the **sticky note** button. Each Miro has unlimited digital whitespace and can be easily converted into reports. 
 
 #### Create a Digital Gallery Walk 
-You can present your ideation in a gallery walk using Miro in a virtual workshop. Take a look at this template that our fellow nINNja Amanda created for a digital version of the National Game Scenario for the HR Leadership Program. 
+You can present your ideation in a gallery walk using Miro in a virtual workshop. With the addition of basic shapes and text, you can create a presentation gallery for participants to share their work and post comments. This guide will take you through a simple process of creating a gallery for participants to upload files from their local hard drive. 
 
-![Layout of Miro for the Digital National Game Scenario](/images/miro national games scenario.PNG)
+##### Step 1
+![Click the shape button on the left panel to add basic shapes to create a placeholder for your gallery.](/images/miro gallery walk 1.png)
 
-With the addition of basic shapes and text, you can create a presentation gallery for participants to share their work and post comments. In this example, rectangular columns have been designated as booths for six groups of participants to post their work. Visiting each booth is simply a matter of zooming in to view the contents and click-and-drag with the mouse to move to the next booth. 
+From the left panel, click the **shape** button to add basic shapes to create a placeholder for your gallery. This helps to set a clearly defined space on a limitless Miro board for your participants to add content to a gallery walk. 
 
-![Additional options for creating content in Miro](/images/miro NGS add options.PNG)
+##### Step 2
+![The toolbar above your shape contains a 'set colour and opacity' button.](/images/miro gallery walk 2.JPG)
 
-Click on the **triple dot menu button** on the left panel and you will see an expanded list of options for you to create additional content on your Miro board. Participants can embed a video, upload a file from their local hard drive, create a mindmap, or import images from Google search. For this brief walkthrough, we'll look at uploading a PowerPoint presentation file. 
+A toolbar will appear above your placeholder. Click the **set colour and opacity** button to modify the background colour for your gallery. 
 
-![Zoom in to view the PowerPoint file placed in the allocated booth in the Miro board.](/images/miro sample slide.PNG)
+##### Step 3
+![Labelled columns within the main placeholder for each group of participants in your workshop.](/images/miro gallery walk 3.JPG)
 
-Once your PowerPoint file is uploaded, it may appear as a pinprick image on the Miro board. Locate it and drag it to the appropriate booth, then zoom in to view it and enlarge its size as you deem fit. Notice that there are **left and right navigational arrow buttons** in the toolbar just above the slide. They are meant for you to scroll through the deck of slides to view their contents. If you wish to leave a comment about the presentation, you can click on the **sticky note** button on the left panel.  
+Repeat steps 1-2 to create columns within your main placeholder according to the number of groups of participants in your workshop. You can also click on the **text** button to insert a text box to label each column with a title. 
+
+You can also get creative with other basic shapes to create spaces for your gallery. For instance, the arrow shape can be used for a jigsaw gallery walk where participants contribute pieces of content to illustrate a process, while the heart shape can be used for an appreciation poster on which participants post messages of affirmation for frontline healthcare workers. 
+
+##### Step 4
+![Use the lock button in the toolbar above your inserted objects.](/images/miro gallery walk 3b lock button.JPG)
+
+Once you're done with inserting and modifying the objects (shapes and text boxes) for your gallery template, select all of them together and click the **lock** button in the toolbar above them. This will help to fix the columns in place within the placeholder and prevent participants from making accidental changes to their placement and colours. Now you can also move the entire gallery template around your Miro board as a grouped object. 
+
+Step 5 onward will be relevant for your participants in creating content for their gallery walk. 
+
+##### Step 5: Upload a presentation object 
+![Upload button on the left panel of your Miro board.](/images/miro gallery walk 4.JPG)
+
+Click the **upload** button on the left panel and select **my device** from the expanded menu to upload your local file for your presentation. 
+
+The **triple dot menu button** on the left panel will expand a list of other options for you to create additional content on your gallery. You can also embed a video, create a mindmap, or import images from Google search. 
+
+##### Step 6: Resize and lock presentation object
+![Resize your object and lock it within your allocated space.](/images/miro gallery walk 5 lock button.JPG)
+
+Once your presentation object has been insert, you may **resize** it while placing it within the allocated space. Remember to use the **lock** button to fix its size and placement. You can do a **long press to unlock** if any further changes need to be made to your object.  
+
+##### Step 7: Visiting 'booths' and leaving comments 
+![Select sticky note from the left panel to leave comments while visiting 'booths'.](/images/miro gallery walk 6 stick note.JPG)
+
+Visiting the different groups' booths in the gallery is a simple matter of clicking and dragging around the Miro board and zooming in on the presentation objects. You can leave constructive feedback for the presenters by clicking on the **sticky note** button on the left panel. 
 
 For more details about creating Miro boards that are customised to fulfil your digital training needs, don't hesitate to reach out to the friendly nINNja team when designing your programs. 
 
