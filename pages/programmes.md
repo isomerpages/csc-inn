@@ -1,4 +1,0 @@
----
-title: Programmes
-permalink: /programmes/
----
