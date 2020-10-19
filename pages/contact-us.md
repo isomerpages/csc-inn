@@ -8,7 +8,7 @@ locations:
     address:
         - Jurong Town Hall Building  
         - 9 Jurong Town Hall Rd
-        - unit no. 03-19
+        - #03-19
         - Singapore 609431
     operating_hours:
       - days: Monday - Thursday
