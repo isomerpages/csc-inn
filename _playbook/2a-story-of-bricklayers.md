@@ -8,7 +8,7 @@ third_nav_title: "Setting Expectations"
 ### Story of Bricklayers
 
 ---
-**AT A GLANCE**
+**AT A GLANCE**  
 **Suggested Time:** 30 minutes  
 **Difficulty level:** Easy  
 **Mode:** Face-to-face or virtual  
@@ -17,10 +17,11 @@ third_nav_title: "Setting Expectations"
 
 ---
 
-Ease your participants into your expectations for their conduct in your program with a story about bricklayers. You can tell it as it is shown below or spruce it up with more details from your imagination.  
-<br/>
+The story about bricklayers helps to set a context for an icebreaker activity where you get to know your participants through discussions about the trainer's and learners' expectations and class rules.  
 
 ---
+**STEP 1: TELL THE STORY**  
+
 A reporter visited some construction sites where he met bricklayers who told different accounts about their jobs in his interview. At each construction site, the reporter would ask, 'Would you care to share about what you're building here?'
 
 "I am laying bricks to build a wall,” came the brusque reply from the first bricklayer.
@@ -35,4 +36,17 @@ The third bricklayer left the reporter with insights about his work in the const
 
 ---
 <br/>
-At the end of the story, you should have a discussion with your participants to frame their views about participating in your program with questions such as, “What are your expectations of the program?” or “What do you hope to achieve from this workshop?” This is to encourage them to begin the program positively with an end in mind (The 7 habits of highly effective people, Stephen Covey).
+**STEP 2**  
+Move participants into breakout groups to discuss their expectations of the program or class rules. This is to encourage them to begin the program positively with an end in mind (The 7 habits of highly effective people, Stephen Covey).  
+
+Suggested conversation starters:  
+   * What are your expectations of the program?  
+   * What do you hope to achieve from this workshop?  
+   * How can we ensure a conducive environment for learning?  
+   
+**STEP 3**  
+Gather the participants back in and select 2-3 of them to share their expectations or co-created class rules. Due to time constraints, not everyone will get to share.  
+
+**STEP 4**  
+Copy and paste the participants' expectations and co-created rules onto a slide, then present it as a visual reminder during breaks.  
+
