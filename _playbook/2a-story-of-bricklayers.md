@@ -34,8 +34,6 @@ He responded to the reporter with a twinkle in his eyes, 'I am building a beauti
 
 The third bricklayer left the reporter with insights about his work in the construction industry, and so the reporter left with much satisfaction to work on his story.
 
----
-<br/>
 **STEP 2**  
 Move participants into breakout groups to discuss their expectations of the program or class rules. This is to encourage them to begin the program positively with an end in mind (The 7 habits of highly effective people, Stephen Covey).  
 
