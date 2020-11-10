@@ -8,11 +8,12 @@ third_nav_title: "Setting Expectations"
 ### Story of Bricklayers
 
 ---
-**Suggested Time:** 30 minutes 
-**Difficulty level:** Easy
-**Mode:** Face-to-face or virtual 
-**Tools Needed:** Pens and paper for face-to-face program. Google slides for virtual program. 
-**Program Phase:** Icebreaker, Setting expectations/rules. 
+**AT A GLANCE**
+**Suggested Time:** 30 minutes  
+**Difficulty level:** Easy  
+**Mode:** Face-to-face or virtual  
+**Tools Needed:** Pens and paper for face-to-face program. Google slides for virtual program.  
+**Program Phase:** Icebreaker, Setting expectations/rules.  
 
 ---
 
