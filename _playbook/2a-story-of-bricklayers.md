@@ -6,8 +6,15 @@ third_nav_title: "Setting Expectations"
 
 ![Construction](/images/Construction.jpg)
 ### Story of Bricklayers
-*#facetoface #virtual #preprogram* 
 
+---
+**Suggested Time:** 30 minutes 
+**Difficulty level:** Easy
+**Mode:** Face-to-face or virtual 
+**Tools Needed:** Pens and paper for face-to-face program. Google slides for virtual program. 
+**Program Phase:** Icebreaker, Setting expectations/rules. 
+
+---
 
 Ease your participants into your expectations for their conduct in your program with a story about bricklayers. You can tell it as it is shown below or spruce it up with more details from your imagination.  
 <br/>
