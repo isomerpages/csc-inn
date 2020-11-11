@@ -9,6 +9,7 @@ third_nav_title: "Setting Expectations"
 
 ---
 **AT A GLANCE**  
+
 **Suggested Time:** 30 minutes  
 **Difficulty level:** Easy  
 **Mode:** Face-to-face or virtual  
@@ -19,7 +20,8 @@ third_nav_title: "Setting Expectations"
 
 The story about bricklayers helps to set a context for an icebreaker activity where you get to know your participants through discussions about the trainer's and learners' expectations and class rules.  
 
----
+---  
+
 **STEP 1: TELL THE STORY**  
 
 A reporter visited some construction sites where he met bricklayers who told different accounts about their jobs in his interview. At each construction site, the reporter would ask, 'Would you care to share about what you're building here?'
