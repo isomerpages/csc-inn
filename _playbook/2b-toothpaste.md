@@ -5,11 +5,34 @@ third_nav_title: "Setting Expectations"
 ---
 ![Toothpaste](/images/organic-toothpaste-tube-and-bamboo-toothbrush-on-fresh-green-4465829.jpg)
 ### Toothpaste 
-*#facetoface #virtual #preprogram*
 
-Which part of a tube of toothpaste do you normally squeeze to get the most out of it? This activity is about getting participants to communicate and share different perspectives. 
+---
 
-First, draw a sketch of a tube of toothpaste a flipchart. Then, elicit their responses about which part of the tube they would usually squeeze. As expected you will find that different positions are preferred by different people. Next, ask your participants to account for their preferred methods.
+**AT A GLANCE**  
+
+**Suggested Time:** 30 minutes  
+**Difficulty Level:** Easy  
+**Mode:** Face-to-face / Virtual  
+**Tools Needed:** Pens and paper / Google Slides  
+**Program Phase:** Icebreaker / Setting Expectations  
+
+---
+
+Which part of a tube of toothpaste do you normally squeeze to get the most out of it? This activity is about getting participants to communicate and share different perspectives. For a program where examining different perspectives is key to their learning, you can use this activity to set an expectation on participants to listen to different opinions respectfully.    
+
+---
+
+**STEP 1**  
+
+Show a picture of a tube of toothpaste, then elicit participants' responses about the part of the tube they would usually squeeze.  
+
+Face-to-face mode: Affix the picture on a flipchart. Let participants display their choices by pasting post-it notes with their names.  
+
+Virtual mode: Use **Zoom's share screen** feature to show the picture on a presentation slide. Let participants display their choices by using **Zoom's annotate** feature.  
+
+**STEP 2**  
+
+Ask your participants to explain their reasons behind their preferences.  
 
 Here are some common responses to expect :
 * It is more efficient to squeeze from the bottom of the tube. You can get the most toothpaste out of the tube.
@@ -17,4 +40,6 @@ Here are some common responses to expect :
 * I have better control over the amount of toothpaste to extract if I squeeze the middle of the tube.
 * Everything should have a proper start point. Squeezing the tube in the middle makes the it look messy, so I squeeze its bottom part.
 
-For a program where examining different perspectives is key to their learning, you can use this activity to set an expectation on participants to listen to different opinions respectfully.
+**STEP 3**  
+
+Relate this activity to the learning outcome about viewing different people's perspectives respectfully.  
