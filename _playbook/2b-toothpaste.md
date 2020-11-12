@@ -29,7 +29,7 @@ Show a picture of a tube of toothpaste, then elicit participants' responses abou
 Face-to-face mode: Affix the picture on a flipchart. Let participants display their choices by pasting post-it notes with their names.  
 
 Virtual mode: Use **Zoom's share screen** feature to show the picture on a presentation slide. Let participants display their choices by using **Zoom's annotate** feature.  
-  
+<br/>  
 
 **STEP 2**  
 
@@ -40,7 +40,7 @@ Here are some common responses to expect :
 * Squeezing from the middle of the tube gets the toothpaste out faster.
 * I have better control over the amount of toothpaste to extract if I squeeze the middle of the tube.
 * Everything should have a proper start point. Squeezing the tube in the middle makes the it look messy, so I squeeze its bottom part.  
-
+<br/>
 
 **STEP 3**  
 
