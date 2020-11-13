@@ -9,6 +9,7 @@ third_nav_title: "Setting Expectations"
 ---
 
 **AT A GLANCE**  
+
 |-----------------------|-----------------------------------|
 | **Suggested Time:**   | 30 minutes                        |
 | **Difficulty Level:** | Easy                              |
