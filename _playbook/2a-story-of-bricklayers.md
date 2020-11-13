@@ -1,7 +1,7 @@
 ---
 title: Story of Bricklayers
-permalink: /playbook/setting-expectations/story-of-bricklayers/
-third_nav_title: "Setting Expectations"
+permalink: /playbook/icebreakers/story-of-bricklayers/
+third_nav_title: "Icebreakers"
 ---
 
 ![Construction](/images/Construction.jpg)
