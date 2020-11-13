@@ -8,7 +8,7 @@ third_nav_title: Icebreakers
 |                       |                                         |
 |-----------------------|-----------------------------------------|
 | **Suggested Time:**   | 20 minutes                              |
-| **Difficulty Level:** | Easy                                    |
+| **Difficulty Level:** | Moderate                                |
 | **Mode:**             | Virtual, asynchronous                   |
 | **Tools Needed:**     | [Secret Santa Organizer](https://www.secretsantaorganizer.com/) <br/> [Draw Names](https://www.drawnames.com/secret-santa-generator?step=3) <br/> Participants' names and email addresses | 
 | **Program Phase:**    | Pre-Program Admin <br/> Icebreaker      |
@@ -22,29 +22,29 @@ Pairing your learners together for collaborative learning has never been easier 
 
 This video tutorial illustrates **steps 1-8** below.  
 
-<iframe width="900" height="506" src="https://www.youtube.com/embed/MSChDJFSO1k" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>)  
+<iframe width="900" height="506" src="https://www.youtube.com/embed/MSChDJFSO1k" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>    
 
 ##### PRE-PROGRAM SETUP PART 1 
 
-1. Create an event name.  
-2. Enter the names and email addresses of your participants.  
-3. Check that terms and conditions have been read.  
-4. Click **'Create Event'**.
-5. Click **'Send out wish mails'** so that your participants will be notified via email.  
+**STEP 1** Create an event name.  
+**STEP 2** Enter the names and email addresses of your participants.  
+**STEP 3** Check that terms and conditions have been read.  
+**STEP 4** Click **'Create Event'**.
+**STEP 5** Click **'Send out wish mails'** so that your participants will be notified via email.  
 
 ##### SEND ADMIN INSTRUCTIONS  
 
-6. In the **admin instructions** which will be sent before your program begeins, inform participants to check their email inboxes for the **wish mails** and respond to the task assigned in the **'Your Wish'** text box.  
-7. Participants will then click **'Submit Wish'**. This will send an email confirmation to you.  
+**STEP 6** In the **admin instructions** which will be sent before your program begeins, inform participants to check their email inboxes for the **wish mails** and respond to the task assigned in the **'Your Wish'** text box.  
+**STEP 7** Participants will then click **'Submit Wish'**. This will send an email confirmation to you.  
 
 ##### PRE-PROGRAM SETUP PART 2  
 
-8. Upon receiving confirmations from all participants, you will receive an email that contains the **'Draw Secret Santa'** button. Click it to email all participants the results of their random pairing together with their partners' responses from step 6.  
-9. Create **breakout rooms** for different pairs in your scheduled Zoom meeting.  
+**STEP 8** Upon receiving confirmations from all participants, you will receive an email that contains the **'Draw Secret Santa'** button. Click it to email all participants the results of their random pairing together with their partners' responses from step 6.  
+**STEP 9** Create **breakout rooms** for different pairs in your scheduled Zoom meeting.  
 
 ##### PROGRAM COMMENCES: ICEBREAKER  
 
-10. Refer participants to the pre-program task assigned via Secret Santa Organizer, then move them into the **pre-assigned breakout rooms** (step 9) for introductory exchanges and further discussion.  
+**STEP 10** Refer participants to the pre-program task assigned via Secret Santa Organizer, then move them into the **pre-assigned breakout rooms** (step 9) for introductory exchanges and further discussion.  
  
 
 #### [Draw Names](https://www.drawnames.com/secret-santa-generator?step=3)  
