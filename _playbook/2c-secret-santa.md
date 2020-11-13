@@ -34,7 +34,7 @@ This video tutorial illustrates **steps 1-8** below.
 
 ##### SEND ADMIN INSTRUCTIONS  
 
-**STEP 6** In the **admin instructions** which will be sent before your program begeins, inform participants to check their email inboxes for the **wish mails** and respond to the task assigned in the **'Your Wish'** text box.  
+**STEP 6** In the **admin instructions** which will be sent before your program begins, inform participants to check their email inboxes for the **wish mails** and respond to the task assigned in the **'Your Wish'** text box.  
 **STEP 7** Participants will then click **'Submit Wish'**. This will send an email confirmation to you.  
 
 ##### PRE-PROGRAM SETUP PART 2  
@@ -47,17 +47,34 @@ This video tutorial illustrates **steps 1-8** below.
 **STEP 10** Refer participants to the pre-program task assigned via Secret Santa Organizer, then move them into the **pre-assigned breakout rooms** (step 9) for introductory exchanges and further discussion.  
  
 
-#### [Draw Names](https://www.drawnames.com/secret-santa-generator?step=3)  
+#### Draw Names
 
 ![Draw Names](/images/Draw Names.JPG)  
 
-1. Key in the names of your participants for the draw.  
-2. You may configure the drawing of names in the following ways:  
+##### PRE-PROGRAM SETUP PART 1  
+
+**STEP 1** Key in the names of your participants for the draw.  
+
+**STEP 2** You may configure the drawing of names in the following ways:  
    * Every participant draws one name. 
    * Every participant draws two names. 
-   * Participants do not draw names but view everyone's wishlist instead. 
-3. (Optional) Set exclusions to indicate the names that some participants may not draw.  
-4. Under 'Set up gift exchange details', enter a title for your activity, fill in your email address, and write your instructions to your participants under **'Invitation Message'**.  
-5. Click **Confirm**, then check your email inbox to continue with choosing one of the following ways to send the invitation to your participants.  
-   ![Draw Names send invitation](/images/Draw Names send invitation.JPG)
-6. Your participants will draw their alloted names when they accept your invitation. 
+   * Participants do not draw names but view everyone's wishlist instead.  
+   
+**STEP 3** (Optional) Set exclusions to indicate the names that some participants may not draw.  
+
+**STEP 4** Under 'Set up gift exchange details', enter a title for your activity, fill in your email address, and write your instructions to your participants under **'Invitation Message'**.  
+
+**STEP 5** Click **Confirm**, then check your email to continue with choosing one of the following ways to send the invitation to your participants.  
+   ![Draw Names send invitation](/images/Draw Names send invitation.JPG)  
+
+##### SEND ADMIN INSTRUCTIONS  
+
+**STEP 6** In the **admin instructions** which will be sent before your program begins, inform participants that they will draw their alloted names when they accept your invitation by your deadline.  
+
+##### PRE-PROGRAM SETUP PART 2  
+
+**STEP 7** You will be able to view a list of drawn names **after** participants draw their alloted names upon accepting your invitation. Create **breakout rooms** for different pairs in your scheduled Zoom meeting.  
+
+##### PROGRAM COMMENCES: ICEBREAKER  
+
+**STEP 8** Refer participants to the pre-program task assigned via Draw Names, then move them into the **pre-assigned breakout rooms** (step 9) for introductory exchanges and further discussion.  
