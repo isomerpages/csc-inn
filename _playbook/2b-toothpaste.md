@@ -14,12 +14,12 @@ third_nav_title: "Setting Expectations"
 |-----------------------|----------------------|
 | **Suggested Time:**   | 30 minutes           |
 | **Difficulty Level:** | Easy                 |
-| **Mode:**             | Face-to-Face (F2F)   |
-|                       | Virtual (V)          |
+| **Mode:**             | Face-to-Face (F2F) or Virtual (V) |
 | **Tools Needed:**     | F2F: Pen and paper   |
 |                       | V: Google slides     |
 | **Program Phase:**    | Icebreaker           |
 |                       | Setting Expectations |  
+|                       |                      |  
 
 ---
 
