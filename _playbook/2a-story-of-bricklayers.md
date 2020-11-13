@@ -9,11 +9,11 @@ third_nav_title: "Setting Expectations"
 
 |                       |                      |
 |-----------------------|----------------------|
-| **Suggested Time:**   | 30 minutes           |
-| **Difficulty Level:** | Easy                 |
-| **Mode:**             | Face-to-Face (F2F) <br/> Virtual (V) |
-| **Tools Needed:**     | F2F: Pen and paper <br/> V: Google slides |
-| **Program Phase:**    | Icebreaker <br/> Setting Expectations/Rules | 
+| **Suggested Time**   | 30 minutes           |
+| **Difficulty Level** | Easy                 |
+| **Mode**             | Face-to-Face (F2F) <br/> Virtual (V) |
+| **Tools Needed**     | F2F: Pen and paper <br/> V: Google slides |
+| **Program Phase**    | Icebreaker <br/> Setting Expectations/Rules | 
 |                       |                      |  
 
 The story about bricklayers helps to set a context for an icebreaker activity where you get to know your participants through discussions about the trainer's and learners' expectations and class rules.  
