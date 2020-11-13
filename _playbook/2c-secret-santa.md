@@ -27,19 +27,25 @@ This video tutorial illustrates **steps 1-8** below.
 ##### PRE-PROGRAM SETUP PART 1 
 
 **STEP 1** Create an event name.  
+
 **STEP 2** Enter the names and email addresses of your participants.  
+
 **STEP 3** Check that terms and conditions have been read.  
-**STEP 4** Click **'Create Event'**.
+
+**STEP 4** Click **'Create Event'**.  
+
 **STEP 5** Click **'Send out wish mails'** so that your participants will be notified via email.  
 
 ##### SEND ADMIN INSTRUCTIONS  
 
 **STEP 6** In the **admin instructions** which will be sent before your program begins, inform participants to check their email inboxes for the **wish mails** and respond to the task assigned in the **'Your Wish'** text box.  
+
 **STEP 7** Participants will then click **'Submit Wish'**. This will send an email confirmation to you.  
 
 ##### PRE-PROGRAM SETUP PART 2  
 
 **STEP 8** Upon receiving confirmations from all participants, you will receive an email that contains the **'Draw Secret Santa'** button. Click it to email all participants the results of their random pairing together with their partners' responses from step 6.  
+
 **STEP 9** Create **breakout rooms** for different pairs in your scheduled Zoom meeting.  
 
 ##### PROGRAM COMMENCES: ICEBREAKER  
