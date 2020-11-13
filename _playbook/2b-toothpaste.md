@@ -6,7 +6,7 @@ third_nav_title: "Setting Expectations"
 ![Toothpaste](/images/organic-toothpaste-tube-and-bamboo-toothbrush-on-fresh-green-4465829.jpg)
 ### Toothpaste 
 
----
+<br/>
 
 **AT A GLANCE**  
 
