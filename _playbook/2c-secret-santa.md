@@ -71,6 +71,7 @@ This video tutorial illustrates **steps 1-8** below.
 **STEP 4** Under 'Set up gift exchange details', enter a title for your activity, fill in your email address, and write your instructions to your participants under **'Invitation Message'**.  
 
 **STEP 5** Click **Confirm**, then check your email to continue with choosing one of the following ways to send the invitation to your participants.  
+
    ![Draw Names send invitation](/images/Draw Names send invitation.JPG)  
 
 ##### SEND ADMIN INSTRUCTIONS  
