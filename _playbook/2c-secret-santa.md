@@ -24,7 +24,7 @@ This video tutorial illustrates **steps 1-8** below.
 
 <iframe width="900" height="506" src="https://www.youtube.com/embed/MSChDJFSO1k" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>    
 
-##### PRE-PROGRAM SETUP PART 1 
+##### Pre-Program Setup Part 1  
 
 **STEP 1** Create an event name.  
 
@@ -36,19 +36,19 @@ This video tutorial illustrates **steps 1-8** below.
 
 **STEP 5** Click **'Send out wish mails'** so that your participants will be notified via email.  
 
-##### SEND ADMIN INSTRUCTIONS  
+##### Send Admin Instructions   
 
 **STEP 6** In the **admin instructions** which will be sent before your program begins, inform participants to check their email inboxes for the **wish mails** and respond to the task assigned in the **'Your Wish'** text box.  
 
 **STEP 7** Participants will then click **'Submit Wish'**. This will send an email confirmation to you.  
 
-##### PRE-PROGRAM SETUP PART 2  
+##### Pre-Program Setup Part 2  
 
 **STEP 8** Upon receiving confirmations from all participants, you will receive an email that contains the **'Draw Secret Santa'** button. Click it to email all participants the results of their random pairing together with their partners' responses from step 6.  
 
 **STEP 9** Create **breakout rooms** for different pairs in your scheduled Zoom meeting.  
 
-##### PROGRAM COMMENCES: ICEBREAKER  
+##### Program Commences: Icebreaker    
 
 **STEP 10** Refer participants to the pre-program task assigned via Secret Santa Organizer, then move them into the **pre-assigned breakout rooms** (step 9) for introductory exchanges and further discussion.  
  
@@ -57,7 +57,7 @@ This video tutorial illustrates **steps 1-8** below.
 
 ![Draw Names](/images/Draw Names.JPG)  
 
-##### PRE-PROGRAM SETUP PART 1  
+##### Pre-Program Setup Part 1  
 
 **STEP 1** Key in the names of your participants for the draw.  
 
@@ -74,14 +74,14 @@ This video tutorial illustrates **steps 1-8** below.
 
    ![Draw Names send invitation](/images/Draw Names send invitation.JPG)  
 
-##### SEND ADMIN INSTRUCTIONS  
+##### Send Admin Instructions   
 
 **STEP 6** In the **admin instructions** which will be sent before your program begins, inform participants that they will draw their alloted names when they accept your invitation by your deadline.  
 
-##### PRE-PROGRAM SETUP PART 2  
+##### Pre-Program Setup Part 2  
 
 **STEP 7** You will be able to view a list of drawn names **after** participants draw their alloted names upon accepting your invitation. Create **breakout rooms** for different pairs in your scheduled Zoom meeting.  
 
-##### PROGRAM COMMENCES: ICEBREAKER  
+##### Program Commences: Icebreaker    
 
 **STEP 8** Refer participants to the pre-program task assigned via Draw Names, then move them into the **pre-assigned breakout rooms** (step 9) for introductory exchanges and further discussion.  
