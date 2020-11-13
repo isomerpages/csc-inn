@@ -6,10 +6,6 @@ third_nav_title: "Setting Expectations"
 ![Toothpaste](/images/organic-toothpaste-tube-and-bamboo-toothbrush-on-fresh-green-4465829.jpg)
 ### Toothpaste 
 
-<br/>
-
-**AT A GLANCE**  
-
 |                       |                      |
 |-----------------------|----------------------|
 | **Suggested Time:**   | 30 minutes           |
@@ -19,7 +15,7 @@ third_nav_title: "Setting Expectations"
 | **Program Phase:**    | Icebreaker <br/> Setting Expectations | 
 |                       |                      |  
 
----
+  
 
 Which part of a tube of toothpaste do you normally squeeze to get the most out of it? This activity is about getting participants to communicate and share different perspectives. For a program where examining different perspectives is key to their learning, you can use this activity to set an expectation on participants to listen to different opinions respectfully.    
 
