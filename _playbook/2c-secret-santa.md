@@ -10,7 +10,7 @@ third_nav_title: Icebreakers
 | **Suggested Time:**   | 20 minutes                              |
 | **Difficulty Level:** | Easy                                    |
 | **Mode:**             | Virtual, asynchronous                   |
-| **Tools Needed:**     | [Secret Santa Organizer](https://www.secretsantaorganizer.com/) <br/> [Draw Names](https://www.drawnames.com/secret-santa-generator?step=3) | 
+| **Tools Needed:**     | [Secret Santa Organizer](https://www.secretsantaorganizer.com/) <br/> [Draw Names](https://www.drawnames.com/secret-santa-generator?step=3) <br/> Participants' names and email addresses | 
 | **Program Phase:**    | Pre-Program Admin <br/> Icebreaker      |
 |                       |                                         |
 
