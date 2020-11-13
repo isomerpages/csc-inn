@@ -1,7 +1,7 @@
 ---
 title: Toothpaste
-permalink: /playbook/setting-expectations/toothpaste/
-third_nav_title: "Setting Expectations"
+permalink: /playbook/icebreakers/toothpaste/
+third_nav_title: "Icebreakers"
 ---
 ![Toothpaste](/images/organic-toothpaste-tube-and-bamboo-toothbrush-on-fresh-green-4465829.jpg)
 ### Toothpaste 
