@@ -2,8 +2,9 @@
 title:  Programmes at INN x CSC
 permalink: /programmes/
 ---
-![Learner engaged in activity with different tools](/images/Learning activity.jpg)
-Here is a list of programmes taking place at INN x CSC. 
+![Learner engaged in activity with different tools](/images/Learning activity.jpg)  
+  
+### Here is a list of programmes taking place at INN x CSC. 
 
 #### Finance
 [Finance Foundation Programme (MSFFPV)](https://www.cscollege.gov.sg/programmes/pages/display%20programme.aspx?epid=w6fh1k845rwtjhwgwadfbmap3w): By nomination only.   
