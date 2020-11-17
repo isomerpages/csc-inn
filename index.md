@@ -16,8 +16,8 @@ sections:
             - title: Programmes
               description: Get the latest list of training programmes.
               url: /programmes/
-            - title: INN x CSC Playbook
-              description: Here you may find online guides for using our virtual learning studios, green room, and a playbook of ideas for face-to-face and virtual facilitation.
+            - title: Playbook
+              description: Get ideas for designing a learning experience ranging from face-to-face to virtual interaction.
               url: /playbook/playbook-main-page/
               
     - infopic:
