@@ -11,11 +11,11 @@ links:
   - title: About INN x CSC
     url: /about/
     
- # - title: What's New #
- #   url: /media-room/ #
+  - title: What's New
+    url: /media-room/
     
-  - title: Playbook
-    collection: playbook
+#  - title: Playbook #
+#    collection: playbook #
           
   - title: Contact Us
     url: /contact-us/
