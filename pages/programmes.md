@@ -1,7 +1,6 @@
 ---
-layout: post
 title:  Programmes at INN x CSC
-permalink: /media-room/programmes/list/
+permalink: /programmes/
 ---
 ![Learner engaged in activity with different tools](/images/Learning activity.jpg)
 Here is a list of programmes taking place at INN x CSC. 
