@@ -28,8 +28,4 @@ sections:
         url: https://youtu.be/texVr_y4yMg
         image: /images/INN Promo Video.JPG
         alt: Team manager Daisy introducing the makerspace at INN. 
-    - resources:
-        title: What's New @ INN x CSC
-        subtitle: Latest programme updates
-        button: View More
 ---
