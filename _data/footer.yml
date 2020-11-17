@@ -7,12 +7,9 @@ social_media:
     instagram: https://www.instagram.com/CSCSingapore/
     
 navlinks:
-	  
   - title: About INN x CSC
     url: /about/
   - title: What's New
     url: /media-room/
   - title: Playbook 
-    url: /playbook/1a-playbook-main-page 
-	          
-
+    url: /playbook/1a-playbook-main-page
