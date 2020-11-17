@@ -13,9 +13,9 @@ sections:
         button:
         url:
         key_highlights:
-            - title: What's New @ INN x CSC
-              description: Latest programme updates
-              url: /media-room/programmes/
+            - title: Programmes
+              description: Get the latest list of training programmes.
+              url: /programmes/
             - title: INN x CSC Playbook
               description: Here you may find online guides for using our virtual learning studios, green room, and a playbook of ideas for face-to-face and virtual facilitation.
               url: /playbook/playbook-main-page/
