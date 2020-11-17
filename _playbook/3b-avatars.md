@@ -1,7 +1,7 @@
 ---
-title: Avatars
-permalink: \/playbook/personalization/avatars/
-third_nav_title: "Personalization"
+title: 
+permalink: 
+third_nav_title: 
 ---
 ![Avatars](/images/avatars.jpg)
 
