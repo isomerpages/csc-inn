@@ -19,9 +19,6 @@ sections:
             - title: INN x CSC Playbook
               description: Here you may find online guides for using our virtual learning studios, green room, and a playbook of ideas for face-to-face and virtual facilitation.
               url: /playbook/playbook-main-page/
-            - title: Gallery
-              description: View photos from past programmes and events
-              url: /privacy/
               
     - infopic:
         title: Reimagining Spaces to Take Learners to New Heights
