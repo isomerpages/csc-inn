@@ -5,8 +5,8 @@
 @charset "utf-8";
 
 // Agency brand colors
-$primary: {{- site.colors.primary-color -}};
-$secondary: {{- site.colors.secondary-color -}};
+$primary: #440099; 
+$secondary: #ec008c;
 $secondary-hover: lighten($secondary, 10%);
 
 {%- for media-color in site.colors.media-colors -%}
@@ -335,3 +335,12 @@ $desktop: 960px + (2 * $gap) !default;
     width: 100%;
   }
 }
+
+//Indentation for lists and nested lists.
+
+li {
+	padding-left: 10px;
+	  }
+ol {
+	padding-left: 50px;
+	  }

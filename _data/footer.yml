@@ -1,10 +1,15 @@
 contact_us: /contact-us/
-show_reach: true
-feedback: 
-faq: /faq/
+// show_reach: true
+feedback: https://form.gov.sg/5fb344b63a3ec7001126b46f
+// faq: /faq/
 social_media:
-    facebook: https://www.facebook.com/YourFBPage
-    twitter: https://www.twitter.com/YourTwitter
-    youtube: https://www.youtube.com/YourYoutube
-    instagram: https://www.instagram.com/your.insta/
-    linkedin: https://www.linkedin.com/company/YourAgency
+    facebook: https://www.facebook.com/CivilServiceCollegeSingapore/
+    instagram: https://www.instagram.com/CSCSingapore/
+    
+navlinks:
+  - title: About INN x CSC
+    url: /about/
+  - title: Programmes
+    url: /programmes/
+  - title: Playbook 
+    url: /playbook/playbook-main-page

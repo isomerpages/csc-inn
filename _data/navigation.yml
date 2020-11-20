@@ -4,14 +4,18 @@
 #                                #
 ##################################
 
-logo: /images/isomer-logo.svg
+logo: /images/INNXCSC_logo.png
 
 links:
+  
+  - title: About INN x CSC
+    url: /about/
+    
+  - title: Programmes
+    url: /programmes/
+    
+  - title: Playbook 
+    collection: playbook 
+          
   - title: Contact Us
     url: /contact-us/
-  - title: About
-    url: /about/
-  - title: Programmes
-    collection: programmes
-  - title: Media Room
-    resource_room: true

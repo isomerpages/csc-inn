@@ -1,4 +1,4 @@
-title: Title
+title: INN x CSC
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 favicon: /images/favicon-isomer.ico
 
@@ -19,10 +19,18 @@ colors:
       color: '#00838f'
 
 
-collections:
-  programmes:
+collections: 
+  playbook:
     output: true
+  
+    
 resources_name: media-room
+
+# Breadcrumbs
+breadcrumbs:
+  root:
+    hide: false # show breadcrumbs on root/home page. 
+    image: true # Show image or title text. 
 
 ##################################################################################################################
 # Everything below this line is Isomer-specific configuration. There should not be a need to edit these settings #
