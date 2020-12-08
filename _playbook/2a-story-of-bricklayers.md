@@ -11,8 +11,8 @@ third_nav_title: "Icebreakers"
 |-----------------------|----------------------|
 | **Suggested Time**   | 30 minutes           |
 | **Difficulty Level** | Easy                 |
-| **Mode**             | Face-to-Face (F2F) <br/> Virtual (V) |
-| **Tools Needed**     | F2F: Pen and paper <br/> V: Google slides |
+| **Mode**             | Offline, synchronous <br/> Online, synchronous |
+| **Tools Needed**     | Offline, synchronous: Pen and paper <br/> Online, synchronous: Google slides |
 | **Program Phase**    | Icebreaker <br/> Setting Expectations/Rules | 
 |                       |                      |  
 
