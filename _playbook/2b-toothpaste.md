@@ -10,8 +10,8 @@ third_nav_title: "Icebreakers"
 |-----------------------|----------------------|
 | **Suggested Time**   | 30 minutes           |
 | **Difficulty Level** | Easy                 |
-| **Mode**             | Offline <br/> Online |
-| **Tools Needed**     | Offline: Pen and paper <br/> Online: Google slides |
+| **Mode**             | Offline, synchronous <br/> Online, synchronous |
+| **Tools Needed**     | Offline, synchronous: Pen and paper <br/> Online, synchronous: Google slides |
 | **Program Phase**    | Icebreaker <br/> Setting Expectations | 
 |                       |                      |  
 
