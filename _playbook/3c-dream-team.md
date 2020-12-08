@@ -45,7 +45,7 @@ These are some items that you may foresee participants requesting for during you
 ---  
   
 #### What makes the Dream Team so impactful  
-Kortney Osbourne's article about the Dream Team summed up its mind-blowing impact on event organizers as follows:  
+Kortney Osbourne's [article](https://www.linkedin.com/pulse/qualtrics-dream-team-bringing-events-back-individual-kortney-osborne/) about the Dream Team summed up its mind-blowing impact on event organizers as follows:  
 'Implementing real-time feedback channels can be daunting but there is incredible value in being customer obsessed and focusing on the attendee experience. From our personal experience, we can tell you that there is nothing better than being able to close the loop with our customers and make every experience an incredible one.'  
   
 If you would like to experiment with the Dream Team idea for your training program, feel free to contact the nINNjas at innxcsc@cscollege.gov.sg.  
