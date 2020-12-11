@@ -5,7 +5,8 @@ third_nav_title: "Icebreakers"
 ---
 
 ![Music](/images/music.jpg)
-### Community Spotify
+### Community Spotify  
+
 |                       |                     |
 |-----------------------|---------------------|
 | **Suggested Time:**   | 15 minutes          |
@@ -19,13 +20,13 @@ Before your program begins, have a check-in conversation with your participants 
 #### Instructions  
 Here's how you can share music with your participants if you're running a training program on Zoom: 
   1. Click **Share Screen**.  
-  ![Share screen button at the bottom of the Zoom application window.](images/Spotify Playlist Article Step 1.JPG)  
+  ![Share screen button at the bottom of the Zoom application window.](/images/Spotify Playlist Article Step 1.JPG)  
   
   2. Locate **Share computer sound** at the bottom of the pop-up window. Make sure that it is checked so that Zoom will broadcast the audio playing from your computer.  
-  ![Checkbox for share computer sound at the bottom of the share screen pop up window.](images/Spotify Playlist Article Step 2.JPG)  
+  ![Checkbox for share computer sound at the bottom of the share screen pop up window.](/images/Spotify Playlist Article Step 2.JPG)  
   
   3. Select the **Spotify app** from the pop-up window and click **Share**.  
-  ![Select Spotify and click share](images/Spotify Playlist Article Step 3.JPG)  
+  ![Select Spotify and click share](/images/Spotify Playlist Article Step 3.JPG)  
   *In this example, the window containing the Spotify web player is selected. This will be useful for instances where agency issued devices are not authorized to download Spotify.*  
 
 Give this idea a go and participants will feel appreciated about having a stake in creating a vibrant atmosphere for learning.  
