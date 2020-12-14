@@ -49,3 +49,5 @@ Kortney Osbourne's [article](https://www.linkedin.com/pulse/qualtrics-dream-team
 'Implementing real-time feedback channels can be daunting but there is incredible value in being customer obsessed and focusing on the attendee experience. From our personal experience, we can tell you that there is nothing better than being able to close the loop with our customers and make every experience an incredible one.'  
   
 If you would like to experiment with the Dream Team idea for your training programme, feel free to contact the nINNjas at innxcsc@cscollege.gov.sg.  
+  
+*PS: Please reach out to us if you have an exciting idea to share about learning!*
