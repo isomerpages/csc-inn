@@ -27,3 +27,6 @@ As with Cards Against Humanity, you need a minimum of 4 players to play this gam
 2. Everyone but the Laopeh will then select a card to answer the Laopeh’s card.  
 3. Once everyone has selected a card to play, Laopeh will look through all submitted cards and pick his/her favourite answer. The player whose card got chosen wins that round and  gets a point.  
 4. The game ends when a player reaches 10 points.
+  
+  
+*Got an exciting idea to share about learning? Reach out to us at **innxcsc@cscollege.gov.sg**.*
