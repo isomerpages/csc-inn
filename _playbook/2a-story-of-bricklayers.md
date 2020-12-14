@@ -20,7 +20,7 @@ The story about bricklayers helps to set a context for an icebreaker activity wh
 
 ---  
 
-## Step 1: Tell the Story   
+### Step 1: Tell the Story   
 
 A reporter visited some construction sites where he met bricklayers who told different accounts about their jobs in his interview. At each construction site, the reporter would ask, 'Would you care to share about what you're building here?'
 
@@ -34,7 +34,7 @@ He responded to the reporter with a twinkle in his eyes, 'I am building a beauti
 
 The third bricklayer left the reporter with insights about his work in the construction industry, and so the reporter left with much satisfaction to work on his story.
 
-## Step 2: Breakout Discussions  
+### Step 2: Breakout Discussions  
 
 Move participants into breakout groups to discuss their expectations of the programme or class rules. This is to encourage them to begin the programme positively with an end in mind (The 7 habits of highly effective people, Stephen Covey).  
 
@@ -43,11 +43,11 @@ Suggested conversation starters:
    * What do you hope to achieve from this workshop?  
    * How can we ensure a conducive environment for learning?  
    
-## Step 3: Plenary  
+### Step 3: Plenary  
 
 Gather the participants back in and select 2-3 of them to share their expectations or co-created class rules. Due to time constraints, not everyone will get to share.  
 
-## Step 4: Visual Reminder  
+### Step 4: Visual Reminder  
 
 Copy and paste the participants' expectations and co-created rules onto a slide, then present it as a visual reminder during breaks.  
 
