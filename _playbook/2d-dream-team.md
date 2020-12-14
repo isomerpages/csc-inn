@@ -12,7 +12,7 @@ third_nav_title: "Icebreakers"
 | **Difficulty Level:** | Expert                   |
 | **Mode:**             | Online, asynchronous     |
 | **Tools Needed:**     | Google Form              |
-| **Program Phase:**    | Pre-Program <br/> Main Program |
+| **Program Phase:**    | Pre-Programme <br/> Main Programme |
 
 The Dream Team at [Qualtrics](https://www.linkedin.com/pulse/qualtrics-dream-team-bringing-events-back-individual-kortney-osborne/) specialises in fulfilling attendees' needs by delivering goods and services to them promptly so that they can focus better and be fully engaged in an event. A need could be a small request for coffee to keep awake or a sweater to keep warm during an event. The team actively listens to attendees' requests and then responds to delight them with surprise deliveries. This ultimately creates a positive impression that leaves attendees wanting to return for more of such events.  
   
