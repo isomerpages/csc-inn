@@ -12,7 +12,7 @@ third_nav_title: "Tools"
 | **Difficulty Level:** | Easy                                  |
 | **Mode:**             | Online/offline, synchronous           |
 | **Tools Needed:**     | [Piing.Events](https://piing.events/) |
-| **Program Phase:**    | Pre-Programme                         |
+| **Program Phase:**    | Pre-Programme <br/> Icebreaker                        |
   
     
 [Piing.Events](https://piing.events/) is a web-based multiplayer gaming service that currently offers four party games for energizers or teambonding. Each game can last about 10 minutes or more, subject to your programme's design. The capacity of the games ranges from 30 to 200 players. 
