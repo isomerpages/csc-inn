@@ -13,7 +13,7 @@ third_nav_title: "Icebreakers"
 | **Difficulty Level:** | Easy                |
 | **Mode:**             | Online, synchronous |
 | **Tools Needed:**     | Spotify (Premium)   |
-| **Program Phase:**    | Main Program        |
+| **Program Phase:**    | Main Programme      |
 
 Before your programme begins, have a check-in conversation with your participants about the songs they love. This can help them in building a sense of community as they discover each other's tastes in music.  Then, create a Spotify playlist based on their song requests and play it during breaks. It would be really handy to have a colleague assist you with this while you engage your participants.  
   
