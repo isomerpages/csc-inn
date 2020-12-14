@@ -43,3 +43,6 @@ Here are some common responses to expect :
 ### Step 3  
 
 Relate this activity to the learning outcome about viewing different people's perspectives respectfully.  
+  
+*Got an exciting idea to share about learning? Reach out to us at **innxcsc@cscollege.gov.sg**.*
+
