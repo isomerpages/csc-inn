@@ -11,7 +11,7 @@ third_nav_title: Icebreakers
 | **Difficulty Level:** | Moderate                                |
 | **Mode:**             | Online, asynchronous                   |
 | **Tools Needed:**     | [Secret Santa Organizer](https://www.secretsantaorganizer.com/) <br/> [Draw Names](https://www.drawnames.com/secret-santa-generator?step=3) <br/> Participants' names and email addresses | 
-| **Program Phase:**    | Pre-Program Admin <br/> Icebreaker      |
+| **Program Phase:**    | Pre-Programme Admin <br/> Icebreaker      |
 |                       |                                         |
 
 Pairing your learners together for collaborative learning has never been easier with online secret Santa generator platforms such as [Secret Santa Organizer](https://www.secretsantaorganizer.com/) and [Draw Names](https://www.drawnames.com/secret-santa-generator?step=3). These platforms help you to group participants into pairs randomly with minimal effort. You can set simple pre-programme tasks via a secret Santa generator to elicit your participants' responses which in turn can be used as conversation starters to encourage interaction during an icebreaker session. Read on to find out how these platforms can be used to achieve this.   
