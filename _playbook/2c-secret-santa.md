@@ -3,7 +3,7 @@ title: Secret Santa
 permalink: /playbook/icebreakers/secret-santa/
 third_nav_title: Icebreakers
 ---
-### Secret Santa 
+# Secret Santa 
 
 |                       |                                         |
 |-----------------------|-----------------------------------------|
@@ -14,17 +14,17 @@ third_nav_title: Icebreakers
 | **Program Phase:**    | Pre-Program Admin <br/> Icebreaker      |
 |                       |                                         |
 
-Pairing your learners together for collaborative learning has never been easier with online secret Santa generator platforms such as [Secret Santa Organizer](https://www.secretsantaorganizer.com/) and [Draw Names](https://www.drawnames.com/secret-santa-generator?step=3). These platforms help you to group participants into pairs randomly with minimal effort. You can set simple pre-program tasks via a secret Santa generator to elicit your participants' responses which in turn can be used as conversation starters to encourage interaction during an icebreaker session. Read on to find out how these platforms can be used to achieve this.   
+Pairing your learners together for collaborative learning has never been easier with online secret Santa generator platforms such as [Secret Santa Organizer](https://www.secretsantaorganizer.com/) and [Draw Names](https://www.drawnames.com/secret-santa-generator?step=3). These platforms help you to group participants into pairs randomly with minimal effort. You can set simple pre-programme tasks via a secret Santa generator to elicit your participants' responses which in turn can be used as conversation starters to encourage interaction during an icebreaker session. Read on to find out how these platforms can be used to achieve this.   
 
 ---
 
-#### Secret Santa Organizer  
+### Secret Santa Organizer  
 
 This video tutorial illustrates **steps 1-8** below.  
 
 <iframe width="900" height="506" src="https://www.youtube.com/embed/MSChDJFSO1k" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>    
 
-##### Pre-Program Setup Part 1  
+#### Pre-Program Setup Part 1  
 
 **Step 1**  
 Create an event name.  
@@ -41,15 +41,15 @@ Click **'Create Event'**.
 **Step 5**  
 Click **'Send out wish mails'** so that your participants will be notified via email.  
 
-##### Send Admin Instructions   
+#### Send Admin Instructions   
 
 **Step 6**  
-In the **admin instructions** which will be sent before your program begins, inform participants to check their email inboxes for the **wish mails** and respond to the task assigned in the **'Your Wish'** text box.  
+In the **admin instructions** which will be sent before your programme begins, inform participants to check their email inboxes for the **wish mails** and respond to the task assigned in the **'Your Wish'** text box.  
 
 **Step 7**  
 Participants will then click **'Submit Wish'**. This will send an email confirmation to you.  
 
-##### Pre-Program Setup Part 2  
+#### Pre-Programme Setup Part 2  
 
 **Step 8**  
 Upon receiving confirmations from all participants, you will receive an email that contains the **'Draw Secret Santa'** button. Click it to email all participants the results of their random pairing together with their partners' responses from step 6.  
@@ -57,17 +57,17 @@ Upon receiving confirmations from all participants, you will receive an email th
 **Step 9**  
 Create **breakout rooms** for different pairs in your scheduled Zoom meeting.  
 
-##### Program Commences: Icebreaker    
+#### Programme Commences: Icebreaker    
 
 **Step 10**  
-Refer participants to the pre-program task assigned via Secret Santa Organizer, then move them into the **pre-assigned breakout rooms** (step 9) for introductory exchanges and further discussion.  
+Refer participants to the pre-programme task assigned via Secret Santa Organizer, then move them into the **pre-assigned breakout rooms** (step 9) for introductory exchanges and further discussion.  
  
 
-#### Draw Names
+### Draw Names
 
 ![Draw Names](/images/Draw Names.JPG)  
 
-##### Pre-Program Setup Part 1  
+#### Pre-Program Setup Part 1  
 
 **Step 1**  
 Key in the names of your participants for the draw.  
@@ -89,17 +89,17 @@ Click **Confirm**, then check your email to continue with choosing one of the fo
 
    ![Draw Names send invitation](/images/Draw Names send invitation.JPG)  
 
-##### Send Admin Instructions   
+#### Send Admin Instructions   
 
 **Step 6**  
-In the **admin instructions** which will be sent before your program begins, inform participants that they will draw their alloted names when they accept your invitation by your deadline.  
+In the **admin instructions** which will be sent before your programme begins, inform participants that they will draw their alloted names when they accept your invitation by your deadline.  
 
-##### Pre-Program Setup Part 2  
+#### Pre-Program Setup Part 2  
 
 **Step 7**  
 You will be able to view a list of drawn names **after** participants draw their alloted names upon accepting your invitation. Create **breakout rooms** for different pairs in your scheduled Zoom meeting.  
 
-##### Program Commences: Icebreaker    
+#### Programme Commences: Icebreaker    
 
 **Step 8**  
-Refer participants to the pre-program task assigned via Draw Names, then move them into the **pre-assigned breakout rooms** (step 9) for introductory exchanges and further discussion.  
+Refer participants to the pre-programme task assigned via Draw Names, then move them into the **pre-assigned breakout rooms** (step 9) for introductory exchanges and further discussion.  
