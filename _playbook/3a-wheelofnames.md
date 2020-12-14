@@ -12,7 +12,7 @@ third_nav_title: "Energizers"
 | **Difficulty Level:** | Easy                                        |
 | **Mode:**             | Online/offline, synchronous                 |
 | **Tools Needed:**     | [Wheel of Names](https://wheelofnames.com/) |
-| **Program Phase:**    | Main Program                                |  
+| **Program Phase:**    | Main Programme                              |  
 
 You have a full class of participants and you're asking for volunteers to share ideas, but no one is responding to you. The resulting awkward silence weighs down on you and dampens everyone's learning experience. With [Wheel of Names](https://wheelofnames.com/), you can call on participants at random and keep your lesson moving at a faster pace.   
 
