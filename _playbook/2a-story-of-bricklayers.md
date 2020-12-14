@@ -50,4 +50,7 @@ Gather the participants back in and select 2-3 of them to share their expectatio
 ### Step 4: Visual Reminder  
 
 Copy and paste the participants' expectations and co-created rules onto a slide, then present it as a visual reminder during breaks.  
+  
+*Got an exciting idea to share about learning? Reach out to us at **innxcsc@cscollege.gov.sg**.*
+
 
