@@ -103,3 +103,5 @@ You will be able to view a list of drawn names **after** participants draw their
 
 **Step 8**  
 Refer participants to the pre-programme task assigned via Draw Names, then move them into the **pre-assigned breakout rooms** (step 9) for introductory exchanges and further discussion.  
+  
+*Got an exciting idea to share about learning? Reach out to us at **innxcsc@cscollege.gov.sg**.*
