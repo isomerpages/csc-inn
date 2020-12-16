@@ -1,7 +1,7 @@
 ---
 title: Mural
-permalink: /playbook/ideation/mural/
-third_nav_title: Ideation
+permalink: /playbook/tools/mural/
+third_nav_title: Tools
 ---
 ![Mural](/images/Mural.png)
 
