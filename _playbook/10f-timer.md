@@ -1,7 +1,7 @@
 ---
 title: Timer
-permalink: /playbook/presentations/timer/
-third_nav_title: Presentations
+permalink: /playbook/tools/timer/
+third_nav_title: Tools
 ---
 ![Timer](/images/timer.jpg)
 
