@@ -1,7 +1,7 @@
 ---
 title: Pear Deck for Google Slides
-permalink: /playbook/presentations/pear-deck/
-third_nav_title: Presentations
+permalink: /playbook/tools/pear-deck/
+third_nav_title: Tools
 ---
 ### Pear Deck for Google Slides 
 *#virtual #facetoface #mainprogram*  
