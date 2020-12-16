@@ -1,7 +1,7 @@
 ---
 title: Miro 
-permalink: /playbook/ideation/miro/
-third_nav_title: Ideation
+permalink: /playbook/tools/miro/
+third_nav_title: Tools
 ---
 ### Miro 
 *#virtual #facetoface #mainprogram*
