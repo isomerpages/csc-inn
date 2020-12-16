@@ -1,7 +1,7 @@
 ---
 title: Google Jamboard
-permalink: /playbook/ideation/jamboard
-third_nav_title: Ideation
+permalink: /playbook/tools/jamboard
+third_nav_title: Tools
 ---
 ![](/images/Jamboard.jpg) 
 
