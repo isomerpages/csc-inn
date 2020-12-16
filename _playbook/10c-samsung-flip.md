@@ -1,7 +1,7 @@
 ---
 title: Samsung Flip
-permalink: /playbook/presentations/samsung-flip/
-third_nav_title: Presentations
+permalink: /playbook/Tools/samsung-flip/
+third_nav_title: Tools
 ---
 ![Samsung Flip](/images/samsung flip banner.JPG)
 ### Samsung Flip
