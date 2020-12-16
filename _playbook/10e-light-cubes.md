@@ -1,7 +1,7 @@
 ---
 title: Light Cubes
-permalink: /playbook/presentations/light-cubes/
-third_nav_title: Presentations
+permalink: /playbook/tools/light-cubes/
+third_nav_title: Tools
 ---
 ![Mood Lights](/images/Mood Lights.jpg)
 
