@@ -1,7 +1,7 @@
 ---
 title: Create Professional Videos 
-permalink: /playbook/presentations/professional-videos/
-third_nav_title: Presentations
+permalink: /playbook/tools/professional-videos/
+third_nav_title: Tools
 ---
 ### Create Professional Videos
 *#facetoface #virtual #preprogram #mainprogram*
